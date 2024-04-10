@@ -44,6 +44,44 @@
 		)
 	)
 	(sheet
+		(at 162.56 46.99)
+		(size 29.21 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce5aa0f6-0554-44ba-9e09-c73e868ec9d0")
+		(property "Sheetname" "lcd"
+			(at 162.56 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lcd.kicad_sch"
+			(at 162.56 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 77.47 46.99)
 		(size 34.29 26.67)
 		(fields_autoplaced yes)

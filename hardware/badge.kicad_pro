@@ -419,6 +419,10 @@
     [
       "f56a97b8-cdf4-4860-a0f6-235c1ed6139a",
       "sensors"
+    ],
+    [
+      "ce5aa0f6-0554-44ba-9e09-c73e868ec9d0",
+      "lcd"
     ]
   ],
   "text_variables": {}
