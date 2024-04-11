@@ -18,6 +18,6 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
     - name: Kiri
-      uses: Kezii/kiri-github-action@v1
+      uses: Kezii/kiri-github-action
       with:
         project-file: hardware/badge.kicad_pro

@@ -14,4 +14,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Kiri
-      uses: Kezii/kiri-github-action@v1
+      uses: Kezii/kiri-github-action
