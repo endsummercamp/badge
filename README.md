@@ -1,5 +1,4 @@
 # Badge
-<a href="https://github.com/endsummercamp/badge/actions"><img alt="actions" src="https://github.com/endsummercamp/badge/actions/workflows/kiri.yml/badge.svg"></a>
 
 Per l'anno 2024 anche l'End Summer Camp si vuole dotare di un badge interattivo e programmabile, in linea con gli eventi simili internazionali.
 
