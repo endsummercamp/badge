@@ -5,7 +5,7 @@ Per l'anno 2024 anche l'End Summer Camp si vuole dotare di un badge interattivo 
 ## Attuale livello di completamento
 
 - [x] Definizione dei requisiti: 70%
-- [ ] Progettazione hardware: 10%
+- [ ] Progettazione hardware: 15%
 - [ ] Design grafico / artistico: 0%
 - [ ] Firmware: 0%
 
