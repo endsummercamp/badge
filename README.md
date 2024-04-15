@@ -19,5 +19,5 @@ Per l'anno 2024 anche l'End Summer Camp si vuole dotare di un badge interattivo 
 ## Come contribuire
 
 1. Presentarsi nel gruppo telegram https://t.me/endsummercamp
-1. L'EDA di riferimento KiCad 8, scaricabile da https://kicad-pcb.org/
+1. L'EDA di riferimento KiCad 8, scaricabile da https://www.kicad.org/
 1. Il firmware sarà basato sul linguaggio Rust
