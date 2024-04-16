@@ -14,4 +14,5 @@ jobs:
       env:
         telegram_to: ${{ secrets.telegram_to }}  
         telegram_token: ${{ secrets.telegram_token }}
+        message_thread_id: ${{ secrets.telegram_message_thread_id }}
         event: ${{ toJson(github.event) }}
