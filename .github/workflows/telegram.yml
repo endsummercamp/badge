@@ -10,7 +10,7 @@ jobs:
   build:    
     runs-on: ubuntu-latest    
     steps:        
-    - uses: Kezii/telegram-github-action@v4
+    - uses: Kezii/telegram-github-action@v5
       env:
         telegram_to: ${{ secrets.telegram_to }}  
         telegram_token: ${{ secrets.telegram_token }}
