@@ -3895,6 +3895,28 @@
 		)
 		(uuid "f3474f97-79ef-431d-8383-aa22ad854d1a")
 	)
+	(global_label "CHG"
+		(shape input)
+		(at 71.12 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "22baa1d9-ea14-4f56-95b8-405cf63de0ec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.2643 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 172.72 104.14 0)
