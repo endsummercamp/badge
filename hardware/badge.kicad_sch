@@ -5,6 +5,84 @@
 	(uuid "dc4a3d77-b0f8-4e90-a4be-3e93c7025348")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 71.12 59.69) (xy 77.47 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f06a50d-4b1d-44da-b90c-0e27ac9b6659")
+	)
+	(wire
+		(pts
+			(xy 71.12 55.88) (xy 77.47 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69400938-9a32-4689-89f8-8546cf65cc87")
+	)
+	(sheet
+		(at 34.29 46.99)
+		(size 36.83 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97c74ad9-4b29-43c6-a727-04b5d51d124a")
+		(property "Sheetname" "usb"
+			(at 34.29 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 34.29 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" input
+			(at 71.12 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d75c6e34-42cc-47b9-8268-2c4d21eb6593")
+		)
+		(pin "USB_D-" input
+			(at 71.12 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d4de1280-b03d-4bb6-adc3-9ab70adb434d")
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
+					(page "7")
+				)
+			)
+		)
+	)
 	(sheet
 		(at 77.47 86.36)
 		(size 34.29 27.94)
@@ -110,6 +188,26 @@
 				)
 				(justify left top)
 			)
+		)
+		(pin "USB_D+" input
+			(at 77.47 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "376d83bf-cb20-4651-9fb2-38d197170172")
+		)
+		(pin "USB_D-" input
+			(at 77.47 59.69 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "681860d4-ba89-44ac-98fe-28dd19d5a59a")
 		)
 		(instances
 			(project "badge"
