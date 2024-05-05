@@ -2040,6 +2040,18 @@
 		)
 		(uuid "10dd1569-10d2-469b-8f62-87b994da06f4")
 	)
+	(hierarchical_label "SCL"
+		(shape input)
+		(at 101.6 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38eb37ef-ada6-4987-9868-3683274b8c1c")
+	)
 	(hierarchical_label "CHG"
 		(shape input)
 		(at 71.12 58.42 180)
@@ -2123,6 +2135,18 @@
 			(justify right)
 		)
 		(uuid "bc356385-0ccb-4185-b5c2-6c9cfbdf189a")
+	)
+	(hierarchical_label "SDA"
+		(shape input)
+		(at 101.6 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "befc3912-277e-461d-80c1-4a76e6645807")
 	)
 	(hierarchical_label "USB_D+"
 		(shape input)

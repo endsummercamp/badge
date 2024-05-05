@@ -57,6 +57,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 69.85) (xy 146.05 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37224332-48be-4b67-85e4-de44745b6bee")
+	)
+	(wire
+		(pts
 			(xy 71.12 59.69) (xy 77.47 59.69)
 		)
 		(stroke
@@ -64,6 +74,26 @@
 			(type default)
 		)
 		(uuid "3f06a50d-4b1d-44da-b90c-0e27ac9b6659")
+	)
+	(wire
+		(pts
+			(xy 133.35 69.85) (xy 146.05 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "425a6401-2a02-4a2e-8f62-91f909c61e50")
+	)
+	(wire
+		(pts
+			(xy 148.59 67.31) (xy 148.59 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43af60d0-bba5-45d0-8d29-26405b0dda11")
 	)
 	(wire
 		(pts
@@ -97,7 +127,17 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 69.85) (xy 153.67 69.85)
+			(xy 133.35 67.31) (xy 148.59 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8064ecc4-17ca-4c59-9748-1fe7dab58712")
+	)
+	(wire
+		(pts
+			(xy 133.35 58.42) (xy 161.29 58.42)
 		)
 		(stroke
 			(width 0)
@@ -117,7 +157,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 90.17) (xy 179.07 90.17)
+			(xy 161.29 90.17) (xy 179.07 90.17)
 		)
 		(stroke
 			(width 0)
@@ -147,13 +187,71 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 69.85) (xy 153.67 90.17)
+			(xy 161.29 58.42) (xy 161.29 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f916780a-446d-42c2-a7b9-0817b9531d4a")
+	)
+	(sheet
+		(at 138.43 129.54)
+		(size 43.18 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7645f545-fb09-4b71-a7e4-4045145cacbd")
+		(property "Sheetname" "imu"
+			(at 138.43 128.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "imu.kicad_sch"
+			(at 138.43 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDA" input
+			(at 146.05 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e90a8b8d-645b-4357-b422-0c6a333b8407")
+		)
+		(pin "SCL" input
+			(at 148.59 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "86a2ee78-df6a-44af-bca6-16ad1ba1aa08")
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
+					(page "8")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 34.29 46.99)
@@ -540,7 +638,7 @@
 			(uuid "427cc967-0fc2-4c29-9512-64c9dbd424ca")
 		)
 		(pin "CHG" input
-			(at 133.35 69.85 0)
+			(at 133.35 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -548,6 +646,26 @@
 				(justify right)
 			)
 			(uuid "d39130ed-81ef-4321-92d5-35c3c68247c3")
+		)
+		(pin "SDA" input
+			(at 133.35 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2627b933-cf26-4883-b70a-5767a1a04157")
+		)
+		(pin "SCL" input
+			(at 133.35 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2fe5ba94-a15a-4b90-a82d-36dfe6d72f8d")
 		)
 		(instances
 			(project "badge"
