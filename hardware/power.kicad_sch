@@ -13867,7 +13867,7 @@
 		)
 		(uuid "dbb7eefb-f9ce-40d0-88cd-1544b774a8e1")
 	)
-	(global_label "CHG"
+	(hierarchical_label "CHG"
 		(shape input)
 		(at 212.09 133.35 0)
 		(fields_autoplaced yes)
@@ -13877,17 +13877,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05c54cac-d32b-4b5a-bc84-f57d24eaf47b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.9457 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+		(uuid "8ff98077-0b04-486f-ae3f-b09046e1d473")
 	)
 	(symbol
 		(lib_id "power:GND")
