@@ -2763,7 +2763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f656cb2f-95bf-4274-99cf-13248e26c842")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 115.57 92.7099 0)
 			(effects
 				(font
@@ -2931,7 +2931,7 @@
 		(instances
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)

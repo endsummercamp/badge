@@ -241,7 +241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5a4558a-4be2-4907-aa6d-8f32ea66002b")
-		(property "Reference" "U3"
+		(property "Reference" "U5"
 			(at 69.85 60.9599 0)
 			(effects
 				(font
@@ -313,7 +313,7 @@
 		(instances
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/f56a97b8-cdf4-4860-a0f6-235c1ed6139a"
-					(reference "U3")
+					(reference "U5")
 					(unit 1)
 				)
 			)
