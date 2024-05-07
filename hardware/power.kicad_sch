@@ -14171,7 +14171,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" " MK-12C02-G020"
 			(at 96.52 33.02 0)
 			(effects
 				(font
@@ -14179,7 +14179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 96.52 39.37 0)
 			(effects
 				(font
@@ -14198,6 +14198,15 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 96.52 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C963206"
 			(at 96.52 39.37 0)
 			(effects
 				(font
@@ -14464,7 +14473,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 191.77 124.46 0)
 			(effects
 				(font
@@ -14534,7 +14543,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 177.292 41.91 90)
 			(effects
 				(font
@@ -14670,7 +14679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 113.9952 53.34 0)
 			(effects
 				(font
@@ -15193,7 +15202,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_XxL4040"
 			(at 151.13 36.83 0)
 			(effects
 				(font
@@ -16007,7 +16016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 141.9352 53.34 0)
 			(effects
 				(font
@@ -16077,7 +16086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 143.2052 143.51 0)
 			(effects
 				(font
@@ -16345,7 +16354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 177.292 54.61 90)
 			(effects
 				(font
@@ -16550,7 +16559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.2552 45.72 0)
 			(effects
 				(font
@@ -17079,7 +17088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:BatteryHolder_Keystone_1042_1x18650"
 			(at 160.02 137.16 0)
 			(effects
 				(font
@@ -17214,7 +17223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 64.262 153.67 90)
 			(effects
 				(font
@@ -17962,7 +17971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 193.548 133.35 90)
 			(effects
 				(font
@@ -18032,7 +18041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.6052 147.32 0)
 			(effects
 				(font
