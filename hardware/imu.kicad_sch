@@ -1021,7 +1021,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR06")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -1093,7 +1093,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR014")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -1214,7 +1214,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "U2")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -1286,7 +1286,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR07")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -1358,7 +1358,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR011")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -1443,7 +1443,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "C2")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -1515,7 +1515,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR010")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -1588,7 +1588,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR09")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -1674,7 +1674,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "C3")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -1746,7 +1746,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR08")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -1831,7 +1831,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "C4")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -1903,7 +1903,7 @@
 			)
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/7645f545-fb09-4b71-a7e4-4045145cacbd"
-					(reference "#PWR013")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
