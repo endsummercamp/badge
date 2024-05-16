@@ -198,6 +198,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 60.96) (xy 158.75 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e79b759-6fc3-4796-87f9-457bb72c7be9")
+	)
+	(wire
+		(pts
 			(xy 118.11 73.66) (xy 118.11 86.36)
 		)
 		(stroke
@@ -205,6 +215,16 @@
 			(type default)
 		)
 		(uuid "24e31e7f-417a-439e-867f-93d781805c3e")
+	)
+	(wire
+		(pts
+			(xy 133.35 60.96) (xy 158.75 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c2412cf-8040-4b71-8a6d-76493e765b90")
 	)
 	(wire
 		(pts
@@ -328,6 +348,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 69.85) (xy 180.34 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "771de83c-343b-472a-8920-a2a6a229c5d3")
+	)
+	(wire
+		(pts
 			(xy 133.35 67.31) (xy 139.7 67.31)
 		)
 		(stroke
@@ -368,7 +398,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 90.17) (xy 179.07 90.17)
+			(xy 161.29 67.31) (xy 180.34 67.31)
 		)
 		(stroke
 			(width 0)
@@ -458,7 +488,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 58.42) (xy 161.29 90.17)
+			(xy 161.29 58.42) (xy 161.29 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1202,6 +1232,16 @@
 			)
 			(uuid "09919e68-b336-4021-8e7e-b287247dfb64")
 		)
+		(pin "VBAT_DIV2" input
+			(at 133.35 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f5a59eef-6d71-4b0b-a1e4-81a312707256")
+		)
 		(instances
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
@@ -1269,7 +1309,7 @@
 		)
 	)
 	(sheet
-		(at 179.07 86.36)
+		(at 180.34 64.77)
 		(size 34.29 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -1281,7 +1321,7 @@
 		)
 		(uuid "fa1edb42-107e-4301-94d6-2222638475c5")
 		(property "Sheetname" "power"
-			(at 179.07 85.6484 0)
+			(at 180.34 64.0584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1290,7 +1330,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 179.07 114.8846 0)
+			(at 180.34 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1299,7 +1339,7 @@
 			)
 		)
 		(pin "CHG" output
-			(at 179.07 90.17 180)
+			(at 180.34 67.31 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1307,6 +1347,16 @@
 				(justify left)
 			)
 			(uuid "d22da497-67fb-477e-8868-09e71b0ac980")
+		)
+		(pin "VBAT_DIV2" output
+			(at 180.34 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "044d903c-b7b2-465a-a755-c6f93a56f48a")
 		)
 		(instances
 			(project "badge"

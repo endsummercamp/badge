@@ -2268,6 +2268,18 @@
 		)
 		(uuid "d742a298-7e09-41b7-8154-4afcdf6935d6")
 	)
+	(hierarchical_label "VBAT_DIV2"
+		(shape input)
+		(at 101.6 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f9bdcc3d-8eb6-4f90-ae8d-52f49097dd29")
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 172.72 104.14 0)
