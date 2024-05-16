@@ -820,6 +820,76 @@
 				(justify left top)
 			)
 		)
+		(pin "RESET" input
+			(at 220.98 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "20c4b3f5-392d-47c6-a193-78bae1211dfc")
+		)
+		(pin "SPI_MOSI" input
+			(at 220.98 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bb143bbd-67a6-4884-bb9c-a6356b669235")
+		)
+		(pin "SPI_MISO" input
+			(at 220.98 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9c5b236b-96dc-4cb3-9aef-0bc452684573")
+		)
+		(pin "SPI_CLK" input
+			(at 220.98 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a3e8e017-cc5b-46dc-8e82-dfd7c54e057e")
+		)
+		(pin "SPI_CS" input
+			(at 220.98 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4022d6f1-afa1-4288-a62d-ba0f3b2baa50")
+		)
+		(pin "FMARK" input
+			(at 220.98 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c0e819b0-2dc7-4170-98b2-a6272c97ca04")
+		)
+		(pin "BACKLIGHT" input
+			(at 220.98 68.58 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c0efb647-18ec-46d8-841b-36272752f9a4")
+		)
 		(instances
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
