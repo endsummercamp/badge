@@ -8586,7 +8586,7 @@
 			"QAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEDAHQL/D59tQH5/meTuAAAAAElFTkSuQmCC"
 		)
 	)
-	(text_box "TODO: properly size this resistor"
+	(text_box "R32 needs to sink at least 1,64 mW"
 		(exclude_from_sim no)
 		(at 116.84 139.7 0)
 		(size 15.24 8.89)
@@ -8983,7 +8983,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "82R"
 			(at 124.46 125.73 90)
 			(effects
 				(font
