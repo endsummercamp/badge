@@ -902,7 +902,7 @@
 		(uuid "5b29a3ea-86d4-4ce8-b61c-fe629b701a79")
 	)
 	(hierarchical_label "SDA"
-		(shape input)
+		(shape bidirectional)
 		(at 96.52 64.77 0)
 		(fields_autoplaced yes)
 		(effects

@@ -13868,7 +13868,7 @@
 		(uuid "dbb7eefb-f9ce-40d0-88cd-1544b774a8e1")
 	)
 	(hierarchical_label "CHG"
-		(shape input)
+		(shape output)
 		(at 212.09 133.35 0)
 		(fields_autoplaced yes)
 		(effects

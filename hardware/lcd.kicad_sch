@@ -8694,7 +8694,7 @@
 		(uuid "28fd1b4b-1362-485c-a5d4-bf6f36d97511")
 	)
 	(hierarchical_label "SPI_MISO"
-		(shape input)
+		(shape output)
 		(at 132.08 71.12 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8754,7 +8754,7 @@
 		(uuid "ebcbb527-e02b-450b-a92e-d2324cf7177c")
 	)
 	(hierarchical_label "FMARK"
-		(shape input)
+		(shape output)
 		(at 130.81 55.88 180)
 		(fields_autoplaced yes)
 		(effects

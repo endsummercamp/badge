@@ -1587,6 +1587,18 @@
 		(color 0 0 0 0)
 		(uuid "d4a39403-2af1-4700-9332-60de9b61f049")
 	)
+	(no_connect
+		(at 101.6 66.04)
+		(uuid "3973c943-8a38-4004-92dd-f1f622d9c4a2")
+	)
+	(no_connect
+		(at 101.6 63.5)
+		(uuid "d383b8df-ec5a-4af1-9840-4569cf330fb1")
+	)
+	(no_connect
+		(at 101.6 60.96)
+		(uuid "d7957840-1f65-443c-b725-df50b2cde8e4")
+	)
 	(wire
 		(pts
 			(xy 176.53 95.25) (xy 180.34 95.25)
@@ -2017,7 +2029,7 @@
 		(uuid "02c5404e-6e77-46b5-8594-003a59f4dd2e")
 	)
 	(hierarchical_label "KB_ROW1"
-		(shape input)
+		(shape output)
 		(at 71.12 63.5 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2027,6 +2039,18 @@
 			(justify right)
 		)
 		(uuid "0d30a4af-77a0-41d8-be1f-abdc659d4cba")
+	)
+	(hierarchical_label "LCD_BL"
+		(shape output)
+		(at 101.6 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "10758456-d2c9-4c8a-9ac9-46586f57f3b5")
 	)
 	(hierarchical_label "KB_COL0"
 		(shape input)
@@ -2041,7 +2065,7 @@
 		(uuid "10dd1569-10d2-469b-8f62-87b994da06f4")
 	)
 	(hierarchical_label "SCL"
-		(shape input)
+		(shape output)
 		(at 101.6 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2064,6 +2088,30 @@
 		)
 		(uuid "3f7a8296-4ffb-4254-aafb-452ec0e063b2")
 	)
+	(hierarchical_label "LCD_MOSI"
+		(shape output)
+		(at 101.6 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f6698e6-c4cc-4cf1-8a4d-dc800ec3f6b6")
+	)
+	(hierarchical_label "LCD_CLK"
+		(shape output)
+		(at 101.6 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "53cfe811-a199-4922-97c1-4e0df1af5963")
+	)
 	(hierarchical_label "KB_COL6"
 		(shape input)
 		(at 71.12 83.82 180)
@@ -2077,7 +2125,7 @@
 		(uuid "6292b76e-f0d0-4bce-b366-d41ae32723c3")
 	)
 	(hierarchical_label "KB_ROW0"
-		(shape input)
+		(shape output)
 		(at 71.12 60.96 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2087,6 +2135,30 @@
 			(justify right)
 		)
 		(uuid "7688d3b2-a9a7-43ea-a405-7f3cb68fa0ef")
+	)
+	(hierarchical_label "LCD_MISO"
+		(shape input)
+		(at 101.6 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7afcafe6-f279-479a-a286-d8a2fcf6b2c6")
+	)
+	(hierarchical_label "LCS_CS"
+		(shape output)
+		(at 101.6 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7c10c70c-ff42-4776-87dd-d84f22dc1282")
 	)
 	(hierarchical_label "KB_COL4"
 		(shape input)
@@ -2101,7 +2173,7 @@
 		(uuid "7f461579-af2a-4835-b1e2-c4d2891c8c72")
 	)
 	(hierarchical_label "KB_ROW2"
-		(shape input)
+		(shape output)
 		(at 71.12 66.04 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2111,6 +2183,18 @@
 			(justify right)
 		)
 		(uuid "8555172e-cf20-4cb2-9a72-b342f291a425")
+	)
+	(hierarchical_label "LCD_RESET"
+		(shape output)
+		(at 101.6 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a752ec9b-0626-49ad-9484-a7074d66c019")
 	)
 	(hierarchical_label "KB_COL3"
 		(shape input)
@@ -2137,7 +2221,7 @@
 		(uuid "bc356385-0ccb-4185-b5c2-6c9cfbdf189a")
 	)
 	(hierarchical_label "SDA"
-		(shape input)
+		(shape bidirectional)
 		(at 101.6 86.36 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2149,7 +2233,7 @@
 		(uuid "befc3912-277e-461d-80c1-4a76e6645807")
 	)
 	(hierarchical_label "USB_D+"
-		(shape input)
+		(shape bidirectional)
 		(at 101.6 55.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2173,7 +2257,7 @@
 		(uuid "ccc0b8d7-d643-4350-a31f-d17898990f2a")
 	)
 	(hierarchical_label "USB_D-"
-		(shape input)
+		(shape bidirectional)
 		(at 101.6 53.34 0)
 		(fields_autoplaced yes)
 		(effects

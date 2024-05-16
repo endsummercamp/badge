@@ -1608,7 +1608,7 @@
 		(uuid "f4dce539-913f-483f-8a21-2be7e68699bf")
 	)
 	(hierarchical_label "USB_D-"
-		(shape input)
+		(shape bidirectional)
 		(at 149.86 90.17 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1620,7 +1620,7 @@
 		(uuid "9e316c9b-4dfa-467a-aded-3eddf0d09742")
 	)
 	(hierarchical_label "USB_D+"
-		(shape input)
+		(shape bidirectional)
 		(at 149.86 92.71 0)
 		(fields_autoplaced yes)
 		(effects

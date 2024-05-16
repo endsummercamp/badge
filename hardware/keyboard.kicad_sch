@@ -3510,7 +3510,7 @@
 		(uuid "00471141-4765-413d-9bce-dcd79ef0d3a3")
 	)
 	(hierarchical_label "KB_COL3"
-		(shape input)
+		(shape output)
 		(at 177.8 48.26 90)
 		(fields_autoplaced yes)
 		(effects
@@ -3522,7 +3522,7 @@
 		(uuid "161f4d52-4e8a-489f-958c-581c44cc3771")
 	)
 	(hierarchical_label "KB_COL2"
-		(shape input)
+		(shape output)
 		(at 158.75 48.26 90)
 		(fields_autoplaced yes)
 		(effects
@@ -3546,7 +3546,7 @@
 		(uuid "38efc40b-ad2b-4c15-a4a5-51f98f984ead")
 	)
 	(hierarchical_label "KB_COL5"
-		(shape input)
+		(shape output)
 		(at 215.9 48.26 90)
 		(fields_autoplaced yes)
 		(effects
@@ -3558,7 +3558,7 @@
 		(uuid "3967a7ab-8f14-4a63-86c8-64d9401c8cc7")
 	)
 	(hierarchical_label "KB_COL6"
-		(shape input)
+		(shape output)
 		(at 234.95 48.26 90)
 		(fields_autoplaced yes)
 		(effects
@@ -3570,7 +3570,7 @@
 		(uuid "4bfedb7e-66a9-4486-8dd8-55cacd33cb88")
 	)
 	(hierarchical_label "KB_COL1"
-		(shape input)
+		(shape output)
 		(at 137.16 48.26 90)
 		(fields_autoplaced yes)
 		(effects
@@ -3594,7 +3594,7 @@
 		(uuid "7d9594af-4268-4666-ad2a-e3b424fc774b")
 	)
 	(hierarchical_label "KB_COL0"
-		(shape input)
+		(shape output)
 		(at 115.57 48.26 90)
 		(fields_autoplaced yes)
 		(effects
@@ -3606,8 +3606,8 @@
 		(uuid "8891e797-3f5c-45f9-b428-f3b6fc162bf3")
 	)
 	(hierarchical_label "KB_COL4"
-		(shape input)
-		(at 196.85 46.99 90)
+		(shape output)
+		(at 196.85 48.26 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
