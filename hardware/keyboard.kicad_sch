@@ -4404,7 +4404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKRHABE010_ALPS"
+		(property "Footprint" "lib:SKRHABE010_ALPS"
 			(at 160.02 163.83 0)
 			(effects
 				(font

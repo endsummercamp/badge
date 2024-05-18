@@ -9070,6 +9070,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:AO3400A")
+		(at 54.61 113.03 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6cd761e3-6c26-4c1b-b59c-27e5d35bb90a")
+		(property "Reference" "Q3"
+			(at 54.61 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AO3400A"
+			(at 54.61 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 52.705 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+			(at 50.8 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C20917"
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1e553d8-7bcd-4165-8c57-080ec2073595")
+		)
+		(pin "2"
+			(uuid "c798c3b4-b8cc-458c-9790-a43ecc60a73a")
+		)
+		(pin "3"
+			(uuid "0a6218a5-378d-47cd-bfd8-4f385195dfe4")
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 48.26 116.84 0)
 		(unit 1)
@@ -9161,7 +9244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lib:SKRHABE010_ALPS"
 			(at 83.82 166.878 90)
 			(effects
 				(font
@@ -9665,80 +9748,6 @@
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0"
 					(reference "R30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:AO3400A")
-		(at 54.61 113.03 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dfc1d9ef-d248-4c6f-b2b8-a478bedcd2dd")
-		(property "Reference" "Q2"
-			(at 54.61 119.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AO3400A"
-			(at 54.61 121.92 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 52.705 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 50.8 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
-			(at 54.61 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b7cc40e-2302-4b99-80ad-ab24464e3e5f")
-		)
-		(pin "2"
-			(uuid "858ca389-2076-4cd3-8e53-75c142c85ae8")
-		)
-		(pin "3"
-			(uuid "d0064244-2eba-4fef-b32a-1735e3644165")
-		)
-		(instances
-			(project "badge"
-				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
