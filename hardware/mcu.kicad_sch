@@ -2176,6 +2176,10 @@
 		(uuid "18b08ce8-fda1-4f4f-970c-a3a0344d2253")
 	)
 	(no_connect
+		(at 101.6 83.82)
+		(uuid "31c23edb-4ae4-412a-a9dc-51889ec359d0")
+	)
+	(no_connect
 		(at 101.6 66.04)
 		(uuid "3973c943-8a38-4004-92dd-f1f622d9c4a2")
 	)
@@ -2186,6 +2190,10 @@
 	(no_connect
 		(at 246.38 46.99)
 		(uuid "809ddce4-34a3-46c3-a4ce-b10aa4fe4158")
+	)
+	(no_connect
+		(at 101.6 81.28)
+		(uuid "8c820550-e0a7-404d-b719-335d5723daa3")
 	)
 	(no_connect
 		(at 246.38 39.37)
@@ -2610,13 +2618,13 @@
 		(uuid "7d5862ee-f14a-4daa-89b4-b82f4613e3a9")
 	)
 	(label "LORA_NSS"
-		(at 101.6 81.28 0)
+		(at 71.12 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7f3856e2-5216-4449-9661-b5a9924c1ae7")
 	)
@@ -2665,13 +2673,13 @@
 		(uuid "e32c6abf-8a93-4985-ad82-a78641e28be6")
 	)
 	(label "LORA_CE"
-		(at 101.6 83.82 0)
+		(at 71.12 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "e3c8eb15-7789-4ce5-99d7-91040270b30a")
 	)
