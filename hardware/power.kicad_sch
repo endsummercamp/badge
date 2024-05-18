@@ -13554,7 +13554,7 @@
 	(text_box "9.3.5.6) Shorting the TMR pin to GND disables the safety timers, leave unconnected to use the default.\nOtherwhise:\nT_{max} = Max time in fast-caherge (E.G. 6h)\nK_{tmr} = from table 8.5 ( E.G. 48 s/kΩ)\nR_{TMR} = (T_{max}*3600)/(10*K_{tmr})"
 		(exclude_from_sim no)
 		(at 13.97 177.8 0)
-		(size 60.96 16.51)
+		(size 55.88 16.51)
 		(stroke
 			(width 0)
 			(type default)
@@ -13588,6 +13588,25 @@
 			(justify left top)
 		)
 		(uuid "6d49174b-7ceb-4a0f-95d8-7f27ca62abb2")
+	)
+	(text_box "The chip support limiting the maximum current it can source from the Input pin.\nR_{Ilim}=K_{Ilim}/I_{max}\nK_{Ilim}=1610 AΩ (500mA to 1.5A)"
+		(exclude_from_sim no)
+		(at 140.97 177.8 0)
+		(size 34.29 16.51)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "768fff15-4b9e-431a-b789-56da4b77cfec")
 	)
 	(text_box "The datasheet call specifically for bypass ceramic capacitors from 4.7uF to 47uF for BAT and OUT pin"
 		(exclude_from_sim no)
@@ -13648,8 +13667,8 @@
 	)
 	(text_box "9.3.5) The chip support charging current upto 1.5A. Correct values range from 590 Ω to 8.9 kΩ.\nThe chip will alwais respect the I_{in(max)} current, so current will be splitted with the device and the rest goest to the battery.\nI_{chg} = charging current (E.G. 0.8A)\nK_{Iset}= from 8.5 table (E.G. 890 AΩ)\nR_{Iset} = K_{Iset}/I_{chg}"
 		(exclude_from_sim no)
-		(at 76.2 177.8 0)
-		(size 97.79 16.51)
+		(at 71.12 177.8 0)
+		(size 67.31 16.51)
 		(stroke
 			(width 0)
 			(type default)
@@ -13784,6 +13803,16 @@
 		)
 		(uuid "644d7340-7513-4978-9ec6-e2622842473c")
 	)
+	(text "I_{chg}=500mA"
+		(exclude_from_sim no)
+		(at 85.598 154.686 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "69b1a75c-56e0-450f-8c0e-0734202924dd")
+	)
 	(text "EN2[JP2]"
 		(exclude_from_sim no)
 		(at 30.226 127 0)
@@ -13834,6 +13863,16 @@
 			)
 		)
 		(uuid "c46b3946-db90-4d2f-8892-b0f6bf147539")
+	)
+	(text "I_{lim}=1.3A"
+		(exclude_from_sim no)
+		(at 74.93 154.94 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e6bd5535-8a4d-4be2-9b9c-d56f07a6b38b")
 	)
 	(text "ILIM (default)"
 		(exclude_from_sim no)
@@ -15885,11 +15924,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBD"
+		(property "Value" "1.78k"
 			(at 82.55 153.67 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
 				)
 			)
 		)
@@ -16359,7 +16398,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBD"
+		(property "Value" "1.2k"
 			(at 72.39 153.67 90)
 			(effects
 				(font
@@ -17419,7 +17458,7 @@
 		(dnp yes)
 		(uuid "bf8a1187-ef0c-4a20-ad92-62f432b9ae6c")
 		(property "Reference" "R16"
-			(at 62.738 150.114 0)
+			(at 61.468 150.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
