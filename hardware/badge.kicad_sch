@@ -208,16 +208,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 73.66) (xy 118.11 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24e31e7f-417a-439e-867f-93d781805c3e")
-	)
-	(wire
-		(pts
 			(xy 133.35 60.96) (xy 158.75 60.96)
 		)
 		(stroke
@@ -225,16 +215,6 @@
 			(type default)
 		)
 		(uuid "2c2412cf-8040-4b71-8a6d-76493e765b90")
-	)
-	(wire
-		(pts
-			(xy 115.57 73.66) (xy 115.57 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e536447-6e09-4ea3-b927-54f14972d303")
 	)
 	(wire
 		(pts
@@ -836,26 +816,6 @@
 			)
 			(uuid "bb45a88b-f95c-4510-8842-695ab86b8107")
 		)
-		(pin "KB_COL5" output
-			(at 115.57 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "6ae94b06-ce7c-4132-808f-568e5d7ad294")
-		)
-		(pin "KB_COL6" output
-			(at 118.11 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "7020badb-dac8-4580-b736-4c66c7904717")
-		)
 		(pin "KB_COL0" output
 			(at 102.87 86.36 90)
 			(effects
@@ -1061,26 +1021,6 @@
 				(justify left)
 			)
 			(uuid "d45f3d4a-9ef5-4db8-85d7-714b45a6622c")
-		)
-		(pin "KB_COL5" input
-			(at 115.57 73.66 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "952027db-e167-4477-8b9e-294e2b7cc012")
-		)
-		(pin "KB_COL6" input
-			(at 118.11 73.66 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "307dfa6d-620d-465e-be10-df52e12b2cf1")
 		)
 		(pin "KB_COL1" input
 			(at 105.41 73.66 270)
