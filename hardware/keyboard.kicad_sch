@@ -3645,7 +3645,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -3715,7 +3715,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 121.92 0)
 			(effects
 				(font
@@ -3785,7 +3785,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 109.22 0)
 			(effects
 				(font
@@ -3855,7 +3855,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 147.32 0)
 			(effects
 				(font
@@ -3925,7 +3925,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 121.92 0)
 			(effects
 				(font
@@ -3995,7 +3995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 83.82 0)
 			(effects
 				(font
@@ -4265,7 +4265,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 147.32 0)
 			(effects
 				(font
@@ -4335,7 +4335,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 71.12 0)
 			(effects
 				(font
@@ -4405,7 +4405,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 147.32 0)
 			(effects
 				(font
@@ -4475,7 +4475,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 71.12 0)
 			(effects
 				(font
@@ -4612,7 +4612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 121.92 0)
 			(effects
 				(font
@@ -4682,7 +4682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 58.42 0)
 			(effects
 				(font
@@ -4752,7 +4752,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 58.42 0)
 			(effects
 				(font
@@ -4822,7 +4822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 109.22 0)
 			(effects
 				(font
@@ -4892,7 +4892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 83.82 0)
 			(effects
 				(font
@@ -4962,7 +4962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 121.92 0)
 			(effects
 				(font
@@ -5032,7 +5032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 147.32 0)
 			(effects
 				(font
@@ -5102,7 +5102,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 71.12 0)
 			(effects
 				(font
@@ -5172,7 +5172,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 83.82 0)
 			(effects
 				(font
@@ -5242,7 +5242,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 96.52 0)
 			(effects
 				(font
@@ -5312,7 +5312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 83.82 0)
 			(effects
 				(font
@@ -5382,7 +5382,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 109.22 0)
 			(effects
 				(font
@@ -5452,7 +5452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 96.52 0)
 			(effects
 				(font
@@ -5522,7 +5522,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 121.92 0)
 			(effects
 				(font
@@ -5592,7 +5592,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 109.22 0)
 			(effects
 				(font
@@ -5729,7 +5729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 71.12 0)
 			(effects
 				(font
@@ -5799,7 +5799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 96.52 0)
 			(effects
 				(font
@@ -5869,7 +5869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 58.42 0)
 			(effects
 				(font
@@ -5939,7 +5939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 58.42 0)
 			(effects
 				(font
@@ -6009,7 +6009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 96.52 0)
 			(effects
 				(font
@@ -6079,7 +6079,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 58.42 0)
 			(effects
 				(font
@@ -6149,7 +6149,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 83.82 0)
 			(effects
 				(font
@@ -6219,7 +6219,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 134.62 0)
 			(effects
 				(font
@@ -6289,7 +6289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 147.32 0)
 			(effects
 				(font
@@ -6426,7 +6426,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 58.42 0)
 			(effects
 				(font
@@ -6496,7 +6496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 109.22 0)
 			(effects
 				(font
@@ -6632,7 +6632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 134.62 0)
 			(effects
 				(font
@@ -6702,7 +6702,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 121.92 0)
 			(effects
 				(font
@@ -6893,7 +6893,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 96.52 0)
 			(effects
 				(font
@@ -7030,7 +7030,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 71.12 0)
 			(effects
 				(font
@@ -7100,7 +7100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 109.22 0)
 			(effects
 				(font
@@ -7170,7 +7170,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 147.32 0)
 			(effects
 				(font
@@ -7306,7 +7306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 172.72 134.62 0)
 			(effects
 				(font
@@ -7443,7 +7443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 96.52 0)
 			(effects
 				(font
@@ -7513,7 +7513,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 153.67 71.12 0)
 			(effects
 				(font
@@ -7583,7 +7583,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 134.62 0)
 			(effects
 				(font
@@ -7653,7 +7653,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 71.12 0)
 			(effects
 				(font
@@ -7790,7 +7790,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 96.52 0)
 			(effects
 				(font
@@ -7860,7 +7860,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 134.62 0)
 			(effects
 				(font
@@ -7930,7 +7930,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 147.32 0)
 			(effects
 				(font
@@ -8000,7 +8000,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 229.87 134.62 0)
 			(effects
 				(font
@@ -8070,7 +8070,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 109.22 0)
 			(effects
 				(font
@@ -8140,7 +8140,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 210.82 134.62 0)
 			(effects
 				(font
@@ -8210,7 +8210,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 132.08 83.82 0)
 			(effects
 				(font
@@ -8280,7 +8280,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 191.77 121.92 0)
 			(effects
 				(font
@@ -8350,7 +8350,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "lib:bottonepiccolo_C2888430"
 			(at 110.49 58.42 0)
 			(effects
 				(font
