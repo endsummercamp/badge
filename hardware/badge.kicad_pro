@@ -622,6 +622,10 @@
     [
       "7645f545-fb09-4b71-a7e4-4045145cacbd",
       "imu"
+    ],
+    [
+      "ad67004f-875d-4fc1-b072-e51c46d83319",
+      "audio"
     ]
   ],
   "text_variables": {}
