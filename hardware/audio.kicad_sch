@@ -1712,6 +1712,7 @@
 	)
 	(label "AUDIO.BCLK"
 		(at 127 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1722,6 +1723,7 @@
 	)
 	(label "AUDIO.SD"
 		(at 127 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1732,6 +1734,7 @@
 	)
 	(label "AUDIO.LRCLK"
 		(at 127 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2526,7 +2529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SKRHABE010_ALPS"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 124.46 113.538 90)
 			(effects
 				(font

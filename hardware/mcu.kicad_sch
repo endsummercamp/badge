@@ -2842,6 +2842,7 @@
 	)
 	(label "AUDIO.BCLK"
 		(at 36.83 105.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2852,6 +2853,7 @@
 	)
 	(label "AUDIO.SD"
 		(at 36.83 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2950,6 +2952,7 @@
 	)
 	(label "AUDIO.LRCLK"
 		(at 36.83 107.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
