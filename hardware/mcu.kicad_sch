@@ -2362,6 +2362,33 @@
 		(at 246.38 49.53)
 		(uuid "dba175d2-08e7-4505-851e-6545b3f01ac2")
 	)
+	(bus_entry
+		(at 34.29 110.49)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175eb44b-2878-4bc2-b594-57d1bcf87681")
+	)
+	(bus_entry
+		(at 34.29 107.95)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59445f14-7fb0-44dd-86b2-0e2f42db9b3d")
+	)
+	(bus_entry
+		(at 34.29 113.03)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e586f1bc-4224-45d6-a895-2ff346dc3f9f")
+	)
 	(wire
 		(pts
 			(xy 176.53 95.25) (xy 180.34 95.25)
@@ -2381,6 +2408,16 @@
 			(type default)
 		)
 		(uuid "093bed54-9fd8-4ca4-82fa-f18aab723071")
+	)
+	(bus
+		(pts
+			(xy 34.29 113.03) (xy 34.29 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ff0bc07-5379-4ec3-9baf-01388e952b10")
 	)
 	(wire
 		(pts
@@ -2472,6 +2509,16 @@
 		)
 		(uuid "3cf546f4-b570-4fb3-92f5-2e20d279beef")
 	)
+	(bus
+		(pts
+			(xy 21.59 104.14) (xy 34.29 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d7113bf-3617-4c1b-b3cd-0e49de8588a9")
+	)
 	(wire
 		(pts
 			(xy 166.37 130.81) (xy 176.53 130.81)
@@ -2512,6 +2559,16 @@
 		)
 		(uuid "5f8f7004-23ef-4c21-8c78-08853815957c")
 	)
+	(bus
+		(pts
+			(xy 34.29 110.49) (xy 34.29 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "617d1368-6aed-42c5-8728-1ab39e3eaf11")
+	)
 	(wire
 		(pts
 			(xy 191.77 115.57) (xy 191.77 107.95)
@@ -2531,6 +2588,16 @@
 			(type default)
 		)
 		(uuid "70cd377b-12f1-4242-966e-310ee3650166")
+	)
+	(wire
+		(pts
+			(xy 21.59 99.06) (xy 34.29 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79124ac3-3856-4a19-ab93-152b0b9add8b")
 	)
 	(wire
 		(pts
@@ -2682,6 +2749,16 @@
 		)
 		(uuid "ea4e5420-4875-41d2-b3cc-2f19b5ab3a7d")
 	)
+	(bus
+		(pts
+			(xy 34.29 104.14) (xy 34.29 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eca637df-affb-40b2-845e-e27c41a63be2")
+	)
 	(wire
 		(pts
 			(xy 196.85 133.35) (xy 172.72 133.35)
@@ -2691,6 +2768,16 @@
 			(type default)
 		)
 		(uuid "f98a63ec-4eb4-414a-99e1-1cacca5f95ac")
+	)
+	(bus
+		(pts
+			(xy 34.29 107.95) (xy 34.29 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9ae0cca-da78-4f61-9fc4-27f18c58c1f2")
 	)
 	(wire
 		(pts
@@ -2741,6 +2828,50 @@
 			(type default)
 		)
 		(uuid "ffcb4b4e-9bef-4fbf-91df-b59a3f3c5fe8")
+	)
+	(label "MUTE"
+		(at 34.29 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "00e396cb-f03c-4e5d-83d9-e4bbc7fb9bbd")
+	)
+	(label "AUDIO.BCLK"
+		(at 36.83 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "067527c8-8396-4a8d-beaf-30c44d86cfe0")
+	)
+	(label "AUDIO.SD"
+		(at 36.83 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a0171bd-242b-4734-96a8-e0409492ed23")
+	)
+	(label "AUDIO{I2S}"
+		(at 22.86 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20bc468b-9d33-4768-98c3-14a0eab5747e")
 	)
 	(label "LORA_CE"
 		(at 226.06 49.53 180)
@@ -2818,6 +2949,17 @@
 			(justify right bottom)
 		)
 		(uuid "aecdb9f0-bd8d-4315-981a-640131f94f29")
+	)
+	(label "AUDIO.LRCLK"
+		(at 36.83 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b3aa750a-0cba-4ba4-a5b3-b732d6992054")
 	)
 	(label "LORA_IRQ"
 		(at 246.38 36.83 0)
@@ -2921,6 +3063,18 @@
 			(justify right)
 		)
 		(uuid "10dd1569-10d2-469b-8f62-87b994da06f4")
+	)
+	(hierarchical_label "MUTE"
+		(shape output)
+		(at 21.59 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "151a7dd6-6a9f-4432-a5d3-36683bb575d8")
 	)
 	(hierarchical_label "LCD_MISO"
 		(shape input)
@@ -3053,6 +3207,18 @@
 			(justify right)
 		)
 		(uuid "8555172e-cf20-4cb2-9a72-b342f291a425")
+	)
+	(hierarchical_label "AUDIO"
+		(shape output)
+		(at 21.59 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9e12b8f8-311e-4591-b12a-6317eb93a172")
 	)
 	(hierarchical_label "LCD_RESET"
 		(shape output)
