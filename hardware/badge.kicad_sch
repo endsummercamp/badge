@@ -1164,16 +1164,6 @@
 			)
 			(uuid "fa244a7d-8447-4c30-892c-d4a5778e2e75")
 		)
-		(pin "LCS_CS" output
-			(at 133.35 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "a605bf6a-2229-4a30-910c-e4b1939af043")
-		)
 		(pin "LCD_RESET" output
 			(at 133.35 44.45 0)
 			(effects
@@ -1293,6 +1283,16 @@
 				(justify right)
 			)
 			(uuid "45800b69-3551-447f-abc5-b75ef84382f0")
+		)
+		(pin "LCD_CS" output
+			(at 133.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f05e26b9-39f6-4c75-81be-35d996b1424d")
 		)
 		(instances
 			(project "badge"
