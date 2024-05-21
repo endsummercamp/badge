@@ -15766,6 +15766,72 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
+		(at 31.75 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fc5f49e-b71f-40ba-9357-f417303ce47d")
+		(property "Reference" "#PWR014"
+			(at 31.75 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VSYS"
+			(at 31.75 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb4a3ba9-89b7-45ed-a5cf-e8d9d62691ac")
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDD")
 		(at 222.25 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15955,72 +16021,6 @@
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
 					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDD")
-		(at 20.32 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6f0883f3-ebec-4fd2-bc0e-2ea87947ae6b")
-		(property "Reference" "#PWR011"
-			(at 20.32 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD"
-			(at 20.32 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 20.32 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 20.32 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "adea961a-8ce6-41f8-9a15-59942f7cb684")
-		)
-		(instances
-			(project "badge"
-				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
-					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -16286,6 +16286,72 @@
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
 					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDD")
+		(at 20.32 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7cd60464-4af7-457e-974d-b2463840bf5a")
+		(property "Reference" "#PWR011"
+			(at 20.32 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VSYS"
+			(at 20.32 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 20.32 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 20.32 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bdb223c8-c4f6-466d-9aa5-bdf6ab5e29b7")
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -17830,72 +17896,6 @@
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
 					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDD")
-		(at 31.75 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e67acd8d-d23c-4b27-8cb2-2c04cf51dfbc")
-		(property "Reference" "#PWR014"
-			(at 31.75 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD"
-			(at 31.75 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 31.75 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2195c7a9-5315-4d3b-95ce-84267c8d5987")
-		)
-		(instances
-			(project "badge"
-				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/fa1edb42-107e-4301-94d6-2222638475c5"
-					(reference "#PWR014")
 					(unit 1)
 				)
 			)
