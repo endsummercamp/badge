@@ -4300,30 +4300,6 @@
 		)
 		(uuid "f3474f97-79ef-431d-8383-aa22ad854d1a")
 	)
-	(hierarchical_label "KB_COL1"
-		(shape input)
-		(at 143.51 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "02c5404e-6e77-46b5-8594-003a59f4dd2e")
-	)
-	(hierarchical_label "KB_ROW1"
-		(shape output)
-		(at 143.51 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0d30a4af-77a0-41d8-be1f-abdc659d4cba")
-	)
 	(hierarchical_label "LCD_BL"
 		(shape output)
 		(at 143.51 86.36 0)
@@ -4335,18 +4311,6 @@
 			(justify left)
 		)
 		(uuid "10758456-d2c9-4c8a-9ac9-46586f57f3b5")
-	)
-	(hierarchical_label "KB_COL0"
-		(shape input)
-		(at 143.51 119.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "10dd1569-10d2-469b-8f62-87b994da06f4")
 	)
 	(hierarchical_label "MUTE"
 		(shape output)
@@ -4432,18 +4396,6 @@
 		)
 		(uuid "5ff687ef-cfc5-4e83-84fb-fe1d8e8c2590")
 	)
-	(hierarchical_label "KB_ROW0"
-		(shape output)
-		(at 143.51 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7688d3b2-a9a7-43ea-a405-7f3cb68fa0ef")
-	)
 	(hierarchical_label "LCD_MISO"
 		(shape input)
 		(at 101.6 71.12 0)
@@ -4468,30 +4420,6 @@
 		)
 		(uuid "7c10c70c-ff42-4776-87dd-d84f22dc1282")
 	)
-	(hierarchical_label "KB_COL4"
-		(shape input)
-		(at 143.51 109.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7f461579-af2a-4835-b1e2-c4d2891c8c72")
-	)
-	(hierarchical_label "KB_ROW2"
-		(shape output)
-		(at 143.51 121.92 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8555172e-cf20-4cb2-9a72-b342f291a425")
-	)
 	(hierarchical_label "AUDIO"
 		(shape output)
 		(at 21.59 104.14 180)
@@ -4515,30 +4443,6 @@
 			(justify left)
 		)
 		(uuid "a752ec9b-0626-49ad-9484-a7074d66c019")
-	)
-	(hierarchical_label "KB_COL3"
-		(shape input)
-		(at 143.51 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a9fbf519-8d84-4679-b6a1-fddc8521b9a4")
-	)
-	(hierarchical_label "KB_COL2"
-		(shape input)
-		(at 143.51 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bc356385-0ccb-4185-b5c2-6c9cfbdf189a")
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
