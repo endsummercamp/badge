@@ -140,7 +140,6 @@ pub enum TearingEffect {
     HorizontalAndVertical,
 }
 
-
 ///
 /// An error holding its source (pins or SPI)
 ///
@@ -197,98 +196,104 @@ where
         delay_source.delay_us(10_000);
 
         /*
-        
-    writecommand(0xE0); // Positive Gamma Control
-    writedata(0x00);
-    writedata(0x03);
-    writedata(0x09);
-    writedata(0x08);
-    writedata(0x16);
-    writedata(0x0A);
-    writedata(0x3F);
-    writedata(0x78);
-    writedata(0x4C);
-    writedata(0x09);
-    writedata(0x0A);
-    writedata(0x08);
-    writedata(0x16);
-    writedata(0x1A);
-    writedata(0x0F);
 
-    writecommand(0XE1); // Negative Gamma Control
-    writedata(0x00);
-    writedata(0x16);
-    writedata(0x19);
-    writedata(0x03);
-    writedata(0x0F);
-    writedata(0x05);
-    writedata(0x32);
-    writedata(0x45);
-    writedata(0x46);
-    writedata(0x04);
-    writedata(0x0E);
-    writedata(0x0D);
-    writedata(0x35);
-    writedata(0x37);
-    writedata(0x0F);
+            writecommand(0xE0); // Positive Gamma Control
+            writedata(0x00);
+            writedata(0x03);
+            writedata(0x09);
+            writedata(0x08);
+            writedata(0x16);
+            writedata(0x0A);
+            writedata(0x3F);
+            writedata(0x78);
+            writedata(0x4C);
+            writedata(0x09);
+            writedata(0x0A);
+            writedata(0x08);
+            writedata(0x16);
+            writedata(0x1A);
+            writedata(0x0F);
 
-    writecommand(0XC0); // Power Control 1
-    writedata(0x17);
-    writedata(0x15);
+            writecommand(0XE1); // Negative Gamma Control
+            writedata(0x00);
+            writedata(0x16);
+            writedata(0x19);
+            writedata(0x03);
+            writedata(0x0F);
+            writedata(0x05);
+            writedata(0x32);
+            writedata(0x45);
+            writedata(0x46);
+            writedata(0x04);
+            writedata(0x0E);
+            writedata(0x0D);
+            writedata(0x35);
+            writedata(0x37);
+            writedata(0x0F);
 
-    writecommand(0xC1); // Power Control 2
-    writedata(0x41);
+            writecommand(0XC0); // Power Control 1
+            writedata(0x17);
+            writedata(0x15);
 
-    writecommand(0xC5); // VCOM Control
-    writedata(0x00);
-    writedata(0x12);
-    writedata(0x80);
+            writecommand(0xC1); // Power Control 2
+            writedata(0x41);
 
-    writecommand(TFT_MADCTL); // Memory Access Control
-    writedata(0x48);          // MX, BGR
+            writecommand(0xC5); // VCOM Control
+            writedata(0x00);
+            writedata(0x12);
+            writedata(0x80);
 
-    writecommand(0x3A); // Pixel Interface Format
-#if defined (TFT_PARALLEL_8_BIT) || defined (TFT_PARALLEL_16_BIT) || defined (RPI_DISPLAY_TYPE)
-    writedata(0x55);  // 16-bit colour for parallel
-#else
-    writedata(0x66);  // 18-bit colour for SPI
-#endif
+            writecommand(TFT_MADCTL); // Memory Access Control
+            writedata(0x48);          // MX, BGR
 
-    writecommand(0xB0); // Interface Mode Control
-    writedata(0x00);
+            writecommand(0x3A); // Pixel Interface Format
+        #if defined (TFT_PARALLEL_8_BIT) || defined (TFT_PARALLEL_16_BIT) || defined (RPI_DISPLAY_TYPE)
+            writedata(0x55);  // 16-bit colour for parallel
+        #else
+            writedata(0x66);  // 18-bit colour for SPI
+        #endif
 
-    writecommand(0xB1); // Frame Rate Control
-    writedata(0xA0);
+            writecommand(0xB0); // Interface Mode Control
+            writedata(0x00);
 
-    writecommand(0xB4); // Display Inversion Control
-    writedata(0x02);
+            writecommand(0xB1); // Frame Rate Control
+            writedata(0xA0);
 
-    writecommand(0xB6); // Display Function Control
-    writedata(0x02);
-    writedata(0x02);
-    writedata(0x3B);
+            writecommand(0xB4); // Display Inversion Control
+            writedata(0x02);
 
-    writecommand(0xB7); // Entry Mode Set
-    writedata(0xC6);
+            writecommand(0xB6); // Display Function Control
+            writedata(0x02);
+            writedata(0x02);
+            writedata(0x3B);
 
-    writecommand(0xF7); // Adjust Control 3
-    writedata(0xA9);
-    writedata(0x51);
-    writedata(0x2C);
-    writedata(0x82);
+            writecommand(0xB7); // Entry Mode Set
+            writedata(0xC6);
 
-    writecommand(TFT_SLPOUT);  //Exit Sleep
-delay(120);
+            writecommand(0xF7); // Adjust Control 3
+            writedata(0xA9);
+            writedata(0x51);
+            writedata(0x2C);
+            writedata(0x82);
 
-    writecommand(TFT_DISPON);  //Display on
-delay(25);
+            writecommand(TFT_SLPOUT);  //Exit Sleep
+        delay(120);
 
-         */
-        
+            writecommand(TFT_DISPON);  //Display on
+        delay(25);
+
+                 */
+
         self.write_command_raw(0xE0)?; // Positive Gamma Control
-        self.write_data(&[0x00, 0x03, 0x09, 0x08, 0x16, 0x0A, 0x3F, 0x78, 0x4C, 0x09, 0x0A, 0x08, 0x16, 0x1A, 0x0F])?;
+        self.write_data(&[
+            0x00, 0x03, 0x09, 0x08, 0x16, 0x0A, 0x3F, 0x78, 0x4C, 0x09, 0x0A, 0x08, 0x16, 0x1A,
+            0x0F,
+        ])?;
         self.write_command_raw(0xE1)?; // Negative Gamma Control
-        self.write_data(&[0x00, 0x16, 0x19, 0x03, 0x0F, 0x05, 0x32, 0x45, 0x46, 0x04, 0x0E, 0x0D, 0x35, 0x37, 0x0F])?;
+        self.write_data(&[
+            0x00, 0x16, 0x19, 0x03, 0x0F, 0x05, 0x32, 0x45, 0x46, 0x04, 0x0E, 0x0D, 0x35, 0x37,
+            0x0F,
+        ])?;
         self.write_command_raw(0xC0)?; // Power Control 1
         self.write_data(&[0x17, 0x15])?;
         self.write_command_raw(0xC1)?; // Power Control 2
@@ -323,7 +328,6 @@ delay(25);
         self.write_command(Instruction::DISPON)?; // turn on display
         delay_source.delay_us(10_000);
 
-
         Ok(())
     }
 
@@ -346,7 +350,6 @@ delay(25);
 
         Ok(())
     }
-
 
     ///
     /// Returns currently set orientation
@@ -439,7 +442,6 @@ delay(25);
         Ok(())
     }
 
-
     fn write_command_raw(&mut self, command: u8) -> Result<(), Error<PinE>> {
         self.di
             .send_commands(U8Iter(&mut once(command)))
@@ -492,7 +494,7 @@ pub enum FbWriteError {
     Error,
 }
 pub trait FramebufferTarget {
-    fn eat_framebuffer(&mut self, buf: &[u16]) -> Result<(), FbWriteError>;
+    fn eat_framebuffer(&mut self, buf: &[u8]) -> Result<(), FbWriteError>;
 }
 
 impl<DI, RST, BL, PinE> FramebufferTarget for ST7789<DI, RST, BL>
@@ -501,14 +503,12 @@ where
     RST: OutputPin<Error = PinE>,
     BL: OutputPin<Error = PinE>,
 {
-    fn eat_framebuffer(&mut self, buf: &[u16]) -> Result<(), FbWriteError> {
+    fn eat_framebuffer(&mut self, buf: &[u8]) -> Result<(), FbWriteError> {
         self.write_command(Instruction::RAMWR)
             .map_err(|_| FbWriteError::Error)?;
 
-        
-
         self.di
-            .send_data(DataFormat::U16(buf))
+            .send_data(DataFormat::U8(buf))
             .map_err(|_| FbWriteError::Error)
     }
 }

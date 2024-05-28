@@ -1,21 +1,15 @@
-use std::ffi::c_void;
-
 use display_interface_spi::SPIInterface;
 
-use embedded_gfx::framebuffer::DmaReadyFramebuffer;
-use embedded_graphics::pixelcolor::Rgb565;
 use esp_idf_hal::{
     delay::Ets,
-    gpio::{self, IOPin, InputPin, Output, OutputPin, PinDriver},
-    ledc::{self, LedcChannel, LedcTimer},
+    gpio::{InputPin, Output, OutputPin, PinDriver},
+    ledc::{LedcChannel, LedcTimer},
     peripheral::Peripheral,
     prelude::*,
-    spi::{self, Dma, SpiAnyPins, SpiDeviceDriver, SpiDriver, SpiDriverConfig},
+    spi::{Dma, SpiAnyPins, SpiDeviceDriver, SpiDriver, SpiDriverConfig},
 };
 
-
 use esp_idf_hal::peripherals;
-use embedded_graphics::draw_target::DrawTarget;
 use log::info;
 
 use crate::display_driver::FramebufferTarget;
@@ -87,7 +81,6 @@ pub fn prepare_display<SPI: SpiAnyPins>(
     display_driver::ST7789::new(spi_interface, Some(rst_pin), Some(bl_pin))
 }
 
-
 fn main() {
     // It is necessary to call this function once. Otherwise some patches to the runtime
     // implemented by esp-idf-sys might not link properly. See https://github.com/esp-rs/esp-idf-template/issues/71
@@ -100,21 +93,6 @@ fn main() {
     let peripherals = peripherals::Peripherals::take().unwrap();
 
     log::info!("hello");
-
-
-    /*
-
-#define TFT_WIDTH  320
-#define TFT_HEIGHT 480
-
-#define TFT_MISO 18
-#define TFT_MOSI 7
-#define TFT_SCLK 10
-#define TFT_CS   9  // Chip select control pin
-#define TFT_DC   8  // Data Command control pin
-#define TFT_RST  19
-
-*/
 
     let mut display = prepare_display(
         peripherals.spi2,
@@ -130,45 +108,53 @@ fn main() {
     );
 
     info!("Display prepared");
-    
+
     let mut delay = Ets;
 
     display.hard_reset(&mut delay).unwrap();
     display.init(&mut delay).unwrap();
 
-
     log::info!("Display initialized");
 
-    // display.set_pixels(100, 100, 150, 150, vec![0, 50*50]).unwrap();
+    const W: usize = 60;
+    const H: usize = 60;
 
-    // display.set_pixel(10, 10, 0).unwrap();
+    display
+        .set_address_window(10, 10, 9 + W as u16, 10 + H as u16)
+        .unwrap();
 
-    // loop {
-    //     display.set_pixel(10, 10, 0).unwrap();
+    let mut raw_framebuffer_0 = [0u8; W * H * 3];
 
-    //     esp_idf_hal::delay::Ets::delay_ms(100);
+    for (x, y) in (0..W).flat_map(|x| (0..H).map(move |y| (x, y))) {
+        let i = y * W + x;
 
-    //     display.set_pixel(10, 10, 65535).unwrap();
+        match x {
+            0..=20 => {
+                raw_framebuffer_0[i * 3] = 0;
+                raw_framebuffer_0[i * 3 + 1] = 255;
+                raw_framebuffer_0[i * 3 + 2] = 0;
+            }
+            21..=40 => {
+                raw_framebuffer_0[i * 3] = 255;
+                raw_framebuffer_0[i * 3 + 1] = 255;
+                raw_framebuffer_0[i * 3 + 2] = 255;
+            }
+            41..=60 => {
+                raw_framebuffer_0[i * 3] = 255;
+                raw_framebuffer_0[i * 3 + 1] = 0;
+                raw_framebuffer_0[i * 3 + 2] = 0;
+            }
+            _ => {
+                raw_framebuffer_0[i * 3] = 255;
+                raw_framebuffer_0[i * 3 + 1] = 255;
+                raw_framebuffer_0[i * 3 + 2] = 255;
+            }
+        }
+    }
 
-    //     esp_idf_hal::delay::Ets::delay_ms(100);
-    
-    //     info!("Looping");
-    //     }
-
-
-    let mut raw_framebuffer_0 = [0u16; 32 * 48];
-
-
-    let as_ptr = raw_framebuffer_0.as_mut_ptr();
-
-    display.set_address_window(100, 100, 132, 148).unwrap();
-
-
-    let mut fbuf = DmaReadyFramebuffer::<32, 48>::new(as_ptr as *mut c_void, true);
-
-    fbuf.clear(Rgb565::new(0b111111, 0b111111, 0b111111)).unwrap();
-
-    display.eat_framebuffer(fbuf.as_slice()).unwrap();
-
-    log::info!("Hello, world!");
+    loop {
+        display
+            .eat_framebuffer(raw_framebuffer_0.as_slice())
+            .unwrap();
+    }
 }
