@@ -5,3 +5,7 @@
 	(constraint courtyard_clearance (min -1mm))
 	(condition "A.intersectsCourtyard('U9')"))
 
+(rule "Lcd lenght match"
+	(condition "A.NetClass == 'LCD'")
+	(constraint length (min 30.6mm) (max 30.7mm))
+)

@@ -148,38 +148,18 @@
 		(uuid "bd721dcc-f17f-4505-ab53-07af5e741a43")
 	)
 	(no_connect
-		(at 196.85 49.53)
+		(at 196.85 41.91)
 		(uuid "7e3aa309-7739-4c29-9421-984bcf0c56dd")
 	)
 	(wire
 		(pts
-			(xy 133.35 39.37) (xy 196.85 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0259cfc8-448c-4977-83d2-b179f379247d")
-	)
-	(wire
-		(pts
-			(xy 133.35 44.45) (xy 196.85 44.45)
+			(xy 133.35 36.83) (xy 196.85 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "08284c27-a69c-46d0-afb4-93bacdc7de44")
-	)
-	(wire
-		(pts
-			(xy 133.35 34.29) (xy 196.85 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "095484a6-0432-48aa-87fb-92d15024b031")
 	)
 	(wire
 		(pts
@@ -193,7 +173,27 @@
 	)
 	(bus
 		(pts
-			(xy 133.35 57.15) (xy 170.18 57.15)
+			(xy 133.35 34.29) (xy 196.85 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1609db39-7049-4f4b-a82d-ae66fdcb7d79")
+	)
+	(wire
+		(pts
+			(xy 133.35 39.37) (xy 196.85 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "315488c1-1b97-40b8-8a3f-1d3fae3941e6")
+	)
+	(bus
+		(pts
+			(xy 133.35 57.15) (xy 196.85 57.15)
 		)
 		(stroke
 			(width 0)
@@ -253,16 +253,6 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 41.91) (xy 196.85 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "640d12a9-a6fe-486d-8e03-66ea7032dbe9")
-	)
-	(wire
-		(pts
 			(xy 125.73 121.92) (xy 146.05 121.92)
 		)
 		(stroke
@@ -270,26 +260,6 @@
 			(type default)
 		)
 		(uuid "690d9f19-dee3-4052-92f5-accfecfee51f")
-	)
-	(bus
-		(pts
-			(xy 170.18 57.15) (xy 170.18 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d7a2b39-b81a-4b75-9c06-4c4f5b320d9e")
-	)
-	(wire
-		(pts
-			(xy 196.85 69.85) (xy 167.64 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79ef90be-477e-4b22-b7f7-fa7e6c5ebf08")
 	)
 	(wire
 		(pts
@@ -333,26 +303,6 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 46.99) (xy 196.85 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97041da0-0e91-4f59-92a7-563c47514eb7")
-	)
-	(wire
-		(pts
-			(xy 167.64 69.85) (xy 167.64 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a06bc168-b891-411c-b249-35a0430d6635")
-	)
-	(wire
-		(pts
 			(xy 128.27 124.46) (xy 148.59 124.46)
 		)
 		(stroke
@@ -381,16 +331,6 @@
 		)
 		(uuid "af5f26f8-7ccc-495a-a2d5-b632934d8091")
 	)
-	(bus
-		(pts
-			(xy 170.18 67.31) (xy 196.85 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6c5fd4f-0508-4d6e-a5c5-b7d91c4defec")
-	)
 	(wire
 		(pts
 			(xy 133.35 88.9) (xy 148.59 88.9)
@@ -410,16 +350,6 @@
 			(type default)
 		)
 		(uuid "bcafb7c1-ff01-483f-9263-fceed911481f")
-	)
-	(wire
-		(pts
-			(xy 133.35 36.83) (xy 196.85 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0a4d363-c8f0-43ff-ae8b-871ffab59ce5")
 	)
 	(wire
 		(pts
@@ -453,7 +383,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 59.69) (xy 167.64 59.69)
+			(xy 133.35 59.69) (xy 196.85 59.69)
 		)
 		(stroke
 			(width 0)
@@ -481,6 +411,16 @@
 			(justify left bottom)
 		)
 		(uuid "5705bf57-0254-4251-ac2f-cd775c991df2")
+	)
+	(label "LCD{SPI}"
+		(at 158.75 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a041bbb-e9ea-40ae-9351-d7859aaa4f8b")
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
@@ -733,7 +673,7 @@
 		)
 	)
 	(sheet
-		(at 196.85 62.23)
+		(at 196.85 52.07)
 		(size 29.21 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -745,7 +685,7 @@
 		)
 		(uuid "ad67004f-875d-4fc1-b072-e51c46d83319")
 		(property "Sheetname" "audio"
-			(at 196.85 61.5184 0)
+			(at 196.85 51.3584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -754,7 +694,7 @@
 			)
 		)
 		(property "Sheetfile" "audio.kicad_sch"
-			(at 196.85 75.5146 0)
+			(at 196.85 65.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -763,7 +703,7 @@
 			)
 		)
 		(pin "AUDIO" input
-			(at 196.85 67.31 180)
+			(at 196.85 57.15 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -773,7 +713,7 @@
 			(uuid "7c38ed8d-9efe-4469-93e7-e788bc29cc37")
 		)
 		(pin "MUTE" input
-			(at 196.85 69.85 180)
+			(at 196.85 59.69 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -850,7 +790,7 @@
 	)
 	(sheet
 		(at 196.85 30.48)
-		(size 29.21 26.67)
+		(size 29.21 15.24)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -870,7 +810,7 @@
 			)
 		)
 		(property "Sheetfile" "lcd.kicad_sch"
-			(at 196.85 57.7346 0)
+			(at 196.85 46.3046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -879,7 +819,7 @@
 			)
 		)
 		(pin "RESET" input
-			(at 196.85 44.45 180)
+			(at 196.85 36.83 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -888,38 +828,8 @@
 			)
 			(uuid "20c4b3f5-392d-47c6-a193-78bae1211dfc")
 		)
-		(pin "SPI_MOSI" input
-			(at 196.85 34.29 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "bb143bbd-67a6-4884-bb9c-a6356b669235")
-		)
-		(pin "SPI_CLK" input
-			(at 196.85 39.37 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "a3e8e017-cc5b-46dc-8e82-dfd7c54e057e")
-		)
-		(pin "SPI_CS" input
-			(at 196.85 41.91 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "4022d6f1-afa1-4288-a62d-ba0f3b2baa50")
-		)
 		(pin "BACKLIGHT" input
-			(at 196.85 46.99 180)
+			(at 196.85 39.37 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -929,7 +839,7 @@
 			(uuid "c0efb647-18ec-46d8-841b-36272752f9a4")
 		)
 		(pin "FMARK" output
-			(at 196.85 49.53 180)
+			(at 196.85 41.91 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -938,15 +848,15 @@
 			)
 			(uuid "27038aab-83b0-4cb6-9870-48c8ad0b2617")
 		)
-		(pin "SPI_MISO" output
-			(at 196.85 36.83 180)
+		(pin "LCD" bidirectional
+			(at 196.85 34.29 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "621f897e-3147-46fb-badd-bbdca73e670e")
+			(uuid "f218e23e-e15f-4797-9c77-7b170d678edd")
 		)
 		(instances
 			(project "badge"
@@ -996,38 +906,8 @@
 			)
 			(uuid "d39130ed-81ef-4321-92d5-35c3c68247c3")
 		)
-		(pin "LCD_MISO" input
-			(at 133.35 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "a9ba2406-bc5d-4c1c-b01e-8390580ba49e")
-		)
-		(pin "LCD_CLK" output
-			(at 133.35 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "9e4d5b4d-3316-44eb-a54e-2f3803546461")
-		)
-		(pin "LCD_MOSI" output
-			(at 133.35 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "fa244a7d-8447-4c30-892c-d4a5778e2e75")
-		)
 		(pin "LCD_RESET" output
-			(at 133.35 44.45 0)
+			(at 133.35 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1037,7 +917,7 @@
 			(uuid "57eaa515-4149-44a9-831a-c2e89139822b")
 		)
 		(pin "LCD_BL" output
-			(at 133.35 46.99 0)
+			(at 133.35 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1116,15 +996,15 @@
 			)
 			(uuid "45800b69-3551-447f-abc5-b75ef84382f0")
 		)
-		(pin "LCD_CS" output
-			(at 133.35 41.91 0)
+		(pin "LCD" bidirectional
+			(at 133.35 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f05e26b9-39f6-4c75-81be-35d996b1424d")
+			(uuid "612f24e9-1917-4c9c-942c-17b38e08351c")
 		)
 		(instances
 			(project "badge"
