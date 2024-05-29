@@ -414,6 +414,7 @@
 	)
 	(label "LCD{SPI}"
 		(at 158.75 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

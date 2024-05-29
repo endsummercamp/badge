@@ -7,5 +7,5 @@
 
 (rule "Lcd lenght match"
 	(condition "A.NetClass == 'LCD'")
-	(constraint length (min 30.6mm) (max 30.7mm))
+	(constraint length (min 26.6mm) (max 26.7mm))
 )
