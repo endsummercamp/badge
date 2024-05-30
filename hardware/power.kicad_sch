@@ -14563,7 +14563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:MY-18650-01"
+		(property "Footprint" "badge:MY-18650-01"
 			(at 161.29 137.16 0)
 			(effects
 				(font
@@ -17874,7 +17874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:MY-18650-01"
+		(property "Footprint" "badge:MY-18650-01"
 			(at 161.29 134.62 0)
 			(effects
 				(font

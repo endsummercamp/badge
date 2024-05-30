@@ -5,428 +5,6 @@
 	(uuid "0f8338d8-0f1f-435a-9c1b-8f4701c84f6b")
 	(paper "A4")
 	(lib_symbols
-		(symbol "2024-05-18_00-01-46:SKRHABE010"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 20.32 10.16 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "SKRHABE010"
-				(at 20.32 7.62 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "SKRHABE010_ALPS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "SKRHABE010"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "SKRHABE010"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SKRHABE010_ALPS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SKRHABE010_0_1"
-				(polyline
-					(pts
-						(xy 7.62 -10.16) (xy 33.02 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 18.796 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 10.16 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 18.796 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.192 -2.54) (xy 10.414 -2.032)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -2.54) (xy 20.066 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 20.32 -2.286) (xy 19.558 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 20.574 -2.54) (xy 33.02 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 -10.16) (xy 33.02 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 -5.08) (xy 21.844 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 0) (xy 21.844 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 5.08) (xy 7.62 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 10.414 -2.54)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 12.446 -2.54)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 19.05 -5.08)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 19.05 0)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 20.32 -2.54)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 21.59 -5.08)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 21.59 0)
-					(radius 0.254)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 7.62)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 7.62)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 0)
-					(length 7.62)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 -5.08 180)
-					(length 7.62)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 -2.54 180)
-					(length 7.62)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 0 180)
-					(length 7.62)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -1333,6 +911,428 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "badge:SKRHABE010"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW58"
+				(at 20.32 10.16 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "SKRHABE010"
+				(at 20.32 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "lib:SKRHABE010_ALPS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "SKRHABE010"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SKRHABE010"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SKRHABE010_ALPS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SKRHABE010_0_1"
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 33.02 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 18.796 -5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 10.16 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 18.796 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.192 -2.54) (xy 10.414 -2.032)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -2.54) (xy 20.066 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 20.32 -2.286) (xy 19.558 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 20.574 -2.54) (xy 33.02 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 -10.16) (xy 33.02 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 -5.08) (xy 21.844 -5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 0) (xy 21.844 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 10.414 -2.54)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 12.446 -2.54)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 19.05 -5.08)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 19.05 0)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 20.32 -2.54)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 21.59 -5.08)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 21.59 0)
+					(radius 0.254)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 7.62)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 7.62)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -5.08 180)
+					(length 7.62)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -2.54 180)
+					(length 7.62)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 0 180)
+					(length 7.62)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3883,7 +3883,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 121.92 0)
 			(effects
 				(font
@@ -3953,7 +3953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 109.22 0)
 			(effects
 				(font
@@ -4023,7 +4023,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 83.82 0)
 			(effects
 				(font
@@ -4372,7 +4372,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 71.12 0)
 			(effects
 				(font
@@ -4442,7 +4442,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 71.12 0)
 			(effects
 				(font
@@ -4579,7 +4579,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 121.92 0)
 			(effects
 				(font
@@ -4649,7 +4649,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 58.42 0)
 			(effects
 				(font
@@ -4785,7 +4785,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 58.42 0)
 			(effects
 				(font
@@ -4855,7 +4855,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 109.22 0)
 			(effects
 				(font
@@ -4925,7 +4925,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 83.82 0)
 			(effects
 				(font
@@ -4995,7 +4995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 71.12 0)
 			(effects
 				(font
@@ -5038,7 +5038,7 @@
 		)
 	)
 	(symbol
-		(lib_id "2024-05-18_00-01-46:SKRHABE010")
+		(lib_id "badge:SKRHABE010")
 		(at 160.02 163.83 0)
 		(mirror y)
 		(unit 1)
@@ -5063,7 +5063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SKRHABE010_ALPS"
+		(property "Footprint" "badge:SKRHABE010_ALPS"
 			(at 160.02 163.83 0)
 			(effects
 				(font
@@ -5147,7 +5147,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 83.82 0)
 			(effects
 				(font
@@ -5415,7 +5415,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 83.82 0)
 			(effects
 				(font
@@ -5485,7 +5485,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 109.22 0)
 			(effects
 				(font
@@ -5555,7 +5555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 96.52 0)
 			(effects
 				(font
@@ -5625,7 +5625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 121.92 0)
 			(effects
 				(font
@@ -5828,7 +5828,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 96.52 0)
 			(effects
 				(font
@@ -5898,7 +5898,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 58.42 0)
 			(effects
 				(font
@@ -6034,7 +6034,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 96.52 0)
 			(effects
 				(font
@@ -6104,7 +6104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 58.42 0)
 			(effects
 				(font
@@ -6174,7 +6174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 134.62 0)
 			(effects
 				(font
@@ -6311,7 +6311,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 210.82 134.62 0)
 			(effects
 				(font
@@ -6381,7 +6381,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 109.22 0)
 			(effects
 				(font
@@ -6451,7 +6451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 134.62 0)
 			(effects
 				(font
@@ -6521,7 +6521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 121.92 0)
 			(effects
 				(font
@@ -6591,7 +6591,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 96.52 0)
 			(effects
 				(font
@@ -6728,7 +6728,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 71.12 0)
 			(effects
 				(font
@@ -6798,7 +6798,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 109.22 0)
 			(effects
 				(font
@@ -7013,7 +7013,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 172.72 134.62 0)
 			(effects
 				(font
@@ -7150,7 +7150,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 153.67 71.12 0)
 			(effects
 				(font
@@ -7220,7 +7220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 134.62 0)
 			(effects
 				(font
@@ -7427,7 +7427,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 96.52 0)
 			(effects
 				(font
@@ -7497,7 +7497,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 134.62 0)
 			(effects
 				(font
@@ -7567,7 +7567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 132.08 83.82 0)
 			(effects
 				(font
@@ -7637,7 +7637,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 191.77 121.92 0)
 			(effects
 				(font
@@ -7707,7 +7707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 110.49 58.42 0)
 			(effects
 				(font

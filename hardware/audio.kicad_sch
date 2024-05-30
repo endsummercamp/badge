@@ -1826,7 +1826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:KLJ-01304T-08R07W"
+		(property "Footprint" "badge:KLJ-01304T-08R07W"
 			(at 175.26 93.98 0)
 			(effects
 				(font

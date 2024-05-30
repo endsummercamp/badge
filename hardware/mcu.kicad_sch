@@ -2775,31 +2775,31 @@
 				)
 			)
 		)
-		(symbol "microphone_crystal:Microphone_Crystal"
+		(symbol "badge:Microphone_Crystal"
 			(pin_names
 				(offset 0.0254) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "MK"
-				(at -8.89 1.143 0)
+			(property "Reference" "MK1"
+				(at 15.24 1.2729 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
+					(justify left)
 				)
 			)
 			(property "Value" "Microphone_Crystal"
-				(at -3.81 -0.762 0)
+				(at 15.24 -1.2671 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
+					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "lib:microfono"
 				(at -3.81 -1.778 90)
 				(effects
 					(font
@@ -2819,6 +2819,15 @@
 				)
 			)
 			(property "Description" "Crystal microphone"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2931973"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5634,7 +5643,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:display"
+		(property "Footprint" "badge:display"
 			(at 185.42 55.88 0)
 			(effects
 				(font
@@ -6084,7 +6093,7 @@
 		)
 	)
 	(symbol
-		(lib_id "microphone_crystal:Microphone_Crystal")
+		(lib_id "badge:Microphone_Crystal")
 		(at 35.56 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6111,7 +6120,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:microfono"
+		(property "Footprint" "badge:microfono"
 			(at 31.75 159.258 90)
 			(effects
 				(font
@@ -7962,7 +7971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:bottonepiccolo_C2888430"
+		(property "Footprint" "badge:bottonepiccolo_C2888430"
 			(at 41.91 55.88 0)
 			(effects
 				(font
@@ -8389,7 +8398,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:JOYSTICK_ANALOG_MINITHM"
+		(property "Footprint" "badge:JOYSTICK_ANALOG_MINITHM"
 			(at 252.73 78.74 0)
 			(effects
 				(font
@@ -8603,7 +8612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lib:JOYSTICK_ANALOG_MINITHM"
+		(property "Footprint" "badge:JOYSTICK_ANALOG_MINITHM"
 			(at 267.97 92.71 0)
 			(effects
 				(font

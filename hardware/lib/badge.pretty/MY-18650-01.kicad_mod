@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "MY-18650-01"
 		(at 2 -0.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -204,7 +204,7 @@
 		(remove_unused_layers no)
 		(uuid "e0eae300-1a10-4245-9c54-c2472932df83")
 	)
-	(model "${KIPRJMOD}/3d/MY-18650-01.step"
+	(model "${KIPRJMOD}/lib/3d/MY-18650-01.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -215,7 +215,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/3d/MY-18650-01.wrl"
+	(model "${KIPRJMOD}/lib/3d/MY-18650-01.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
