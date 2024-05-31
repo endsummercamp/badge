@@ -1,3 +1,4 @@
+
 use display_interface_spi::SPIInterface;
 
 use esp_idf_hal::{
@@ -96,13 +97,13 @@ fn main() {
 
     let mut display = prepare_display(
         peripherals.spi2,
-        peripherals.pins.gpio3,
+        peripherals.pins.gpio13,
+        Some(peripherals.pins.gpio1),
+        peripherals.pins.gpio14,
         Some(peripherals.pins.gpio10),
-        peripherals.pins.gpio2,
-        Some(peripherals.pins.gpio7),
-        peripherals.pins.gpio5,
-        peripherals.pins.gpio8,
-        peripherals.pins.gpio4,
+        peripherals.pins.gpio11,
+        peripherals.pins.gpio12,
+        peripherals.pins.gpio15,
         peripherals.ledc.timer0,
         peripherals.ledc.channel0,
     );

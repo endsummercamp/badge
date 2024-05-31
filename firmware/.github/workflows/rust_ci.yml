@@ -29,10 +29,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Setup Rust
-        uses: dtolnay/rust-toolchain@v1
+        uses: esp-rs/xtensa-toolchain@v1.5
         with:
-          toolchain: nightly
-          components: rust-src
+          default: true
+          buildtargets: esp32s3
+          ldproxy: true
       - name: Enable caching
         uses: Swatinem/rust-cache@v2
       - name: Run command

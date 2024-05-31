@@ -6,6 +6,10 @@ edition = "2021"
 resolver = "2"
 rust-version = "1.71"
 
+[[bin]]
+name = "firmware"
+harness = false # do not use the built in cargo test harness -> resolve rust-analyzer errors
+
 [profile.release]
 opt-level = "s"
 
@@ -36,6 +40,7 @@ embedded-hal = "1.0.0"
 display-interface = "0.5.0"
 
 embedded-gfx = {git = "https://github.com/Kezii/embedded-gfx.git"}
+
 
 [build-dependencies]
 embuild = "0.31.3"
