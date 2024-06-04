@@ -842,16 +842,6 @@
 		)
 		(uuid "544dd5cc-f937-497d-9b0b-2c65c656ca1b")
 	)
-	(wire
-		(pts
-			(xy 170.18 88.9) (xy 166.37 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f24e09d-a114-497b-922f-e75cc22574a0")
-	)
 	(bus
 		(pts
 			(xy 123.19 91.44) (xy 123.19 93.98)
@@ -941,6 +931,16 @@
 			(type default)
 		)
 		(uuid "e84465a9-afae-4c87-b453-80b2aa2e873b")
+	)
+	(wire
+		(pts
+			(xy 170.18 88.9) (xy 166.37 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f30cbd9c-5c9d-4caa-8b45-02efe50e26a3")
 	)
 	(wire
 		(pts
@@ -1801,7 +1801,8 @@
 	)
 	(symbol
 		(lib_id "Device:Speaker")
-		(at 175.26 88.9 0)
+		(at 175.26 91.44 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1809,7 +1810,7 @@
 		(dnp no)
 		(uuid "d68ad25c-1810-45d5-ae2d-aeb589ead098")
 		(property "Reference" "LS1"
-			(at 175.768 83.82 0)
+			(at 175.768 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1818,7 +1819,7 @@
 			)
 		)
 		(property "Value" "8Ω@1W"
-			(at 171.958 96.52 0)
+			(at 171.958 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1827,7 +1828,7 @@
 			)
 		)
 		(property "Footprint" "badge:KLJ-01304T-08R07W"
-			(at 175.26 93.98 0)
+			(at 175.26 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1845,7 +1846,7 @@
 			)
 		)
 		(property "Description" "Speaker"
-			(at 175.26 88.9 0)
+			(at 175.26 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1854,7 +1855,7 @@
 			)
 		)
 		(property "LCSC" "C18186315"
-			(at 175.26 88.9 0)
+			(at 175.26 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)

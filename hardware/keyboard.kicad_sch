@@ -1955,10 +1955,6 @@
 		(at 63.5 43.18)
 		(uuid "a116978f-2c7e-4860-9d26-ac29793f9bab")
 	)
-	(no_connect
-		(at 38.1 48.26)
-		(uuid "e22c17cc-3353-46a5-878e-5fb503be7329")
-	)
 	(wire
 		(pts
 			(xy 78.74 48.26) (xy 63.5 48.26)
@@ -3722,6 +3718,18 @@
 			(justify right)
 		)
 		(uuid "56f283ee-34fb-4c40-820c-7acca00e844f")
+	)
+	(hierarchical_label "IO_IRQ"
+		(shape output)
+		(at 38.1 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a599bdf4-baa0-43be-9b5d-3ffe2d7c72e2")
 	)
 	(symbol
 		(lib_id "power:+3.3V")

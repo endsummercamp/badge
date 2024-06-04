@@ -112,37 +112,37 @@
 		(members "BCLK" "LRCLK" "SD")
 	)
 	(junction
-		(at 139.7 67.31)
+		(at 139.7 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40753e7c-0176-4e63-871f-7e634a28eed8")
 	)
 	(junction
-		(at 146.05 91.44)
+		(at 146.05 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "674c2966-0dca-4839-97cc-5cd82da0e315")
 	)
 	(junction
-		(at 148.59 124.46)
+		(at 148.59 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "766c38c1-b22f-4327-978a-9fd7c73fb38c")
 	)
 	(junction
-		(at 139.7 69.85)
+		(at 139.7 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c12f8a8-e686-4652-ada2-f177c4387b05")
 	)
 	(junction
-		(at 146.05 121.92)
+		(at 146.05 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc1492ef-2794-4f35-adce-45d36b828534")
 	)
 	(junction
-		(at 148.59 88.9)
+		(at 148.59 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd721dcc-f17f-4505-ab53-07af5e741a43")
@@ -163,7 +163,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 121.92) (xy 146.05 129.54)
+			(xy 146.05 143.51) (xy 146.05 151.13)
 		)
 		(stroke
 			(width 0)
@@ -183,6 +183,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 76.2) (xy 196.85 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ce3e084-6623-4f36-ae64-7443eb56dfd1")
+	)
+	(wire
+		(pts
 			(xy 133.35 39.37) (xy 196.85 39.37)
 		)
 		(stroke
@@ -190,6 +200,16 @@
 			(type default)
 		)
 		(uuid "315488c1-1b97-40b8-8a3f-1d3fae3941e6")
+	)
+	(wire
+		(pts
+			(xy 101.6 91.44) (xy 101.6 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34074411-edb7-4608-ad24-a43628a50aa4")
 	)
 	(bus
 		(pts
@@ -203,7 +223,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 69.85) (xy 146.05 91.44)
+			(xy 146.05 88.9) (xy 146.05 113.03)
 		)
 		(stroke
 			(width 0)
@@ -213,7 +233,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 69.85) (xy 139.7 69.85)
+			(xy 133.35 88.9) (xy 139.7 88.9)
 		)
 		(stroke
 			(width 0)
@@ -223,7 +243,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 67.31) (xy 148.59 88.9)
+			(xy 148.59 86.36) (xy 148.59 110.49)
 		)
 		(stroke
 			(width 0)
@@ -231,9 +251,29 @@
 		)
 		(uuid "43af60d0-bba5-45d0-8d29-26405b0dda11")
 	)
+	(bus
+		(pts
+			(xy 133.35 73.66) (xy 196.85 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47fac707-3020-4bcd-82cf-d745b87e83d5")
+	)
 	(wire
 		(pts
-			(xy 125.73 129.54) (xy 125.73 121.92)
+			(xy 133.35 78.74) (xy 196.85 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ddb1bb4-5c87-4aba-b641-ecef73e92206")
+	)
+	(wire
+		(pts
+			(xy 125.73 151.13) (xy 125.73 143.51)
 		)
 		(stroke
 			(width 0)
@@ -253,7 +293,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 121.92) (xy 146.05 121.92)
+			(xy 125.73 143.51) (xy 146.05 143.51)
 		)
 		(stroke
 			(width 0)
@@ -263,7 +303,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 67.31) (xy 139.7 67.31)
+			(xy 133.35 86.36) (xy 139.7 86.36)
 		)
 		(stroke
 			(width 0)
@@ -273,7 +313,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 69.85) (xy 146.05 69.85)
+			(xy 139.7 88.9) (xy 146.05 88.9)
 		)
 		(stroke
 			(width 0)
@@ -303,7 +343,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 124.46) (xy 148.59 124.46)
+			(xy 128.27 146.05) (xy 148.59 146.05)
 		)
 		(stroke
 			(width 0)
@@ -313,7 +353,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 91.44) (xy 146.05 121.92)
+			(xy 146.05 113.03) (xy 146.05 143.51)
 		)
 		(stroke
 			(width 0)
@@ -333,7 +373,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 88.9) (xy 148.59 88.9)
+			(xy 133.35 110.49) (xy 148.59 110.49)
 		)
 		(stroke
 			(width 0)
@@ -343,7 +383,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 67.31) (xy 148.59 67.31)
+			(xy 139.7 86.36) (xy 148.59 86.36)
 		)
 		(stroke
 			(width 0)
@@ -353,7 +393,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 91.44) (xy 146.05 91.44)
+			(xy 133.35 113.03) (xy 146.05 113.03)
 		)
 		(stroke
 			(width 0)
@@ -363,7 +403,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 124.46) (xy 148.59 129.54)
+			(xy 148.59 146.05) (xy 148.59 151.13)
 		)
 		(stroke
 			(width 0)
@@ -373,7 +413,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 129.54) (xy 128.27 124.46)
+			(xy 128.27 151.13) (xy 128.27 146.05)
 		)
 		(stroke
 			(width 0)
@@ -393,13 +433,24 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 88.9) (xy 148.59 124.46)
+			(xy 148.59 110.49) (xy 148.59 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e70763ef-fff7-4e62-a37f-a12f73e1db2c")
+	)
+	(label "LORA{SPI}"
+		(at 157.48 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4591a05b-1866-48a5-bff0-b71b3e61e682")
 	)
 	(label "AUDIO{I2S}"
 		(at 157.48 57.15 0)
@@ -425,7 +476,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 139.7 67.31 0)
+		(at 139.7 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -434,7 +485,7 @@
 		(fields_autoplaced yes)
 		(uuid "6710af40-2397-490e-a1de-308e48b1ab0f")
 		(property "Reference" "TP5"
-			(at 142.24 62.7379 0)
+			(at 142.24 81.7879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -443,7 +494,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 142.24 65.2779 0)
+			(at 142.24 84.3279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -452,7 +503,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 144.78 67.31 0)
+			(at 144.78 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -461,7 +512,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 67.31 0)
+			(at 144.78 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -470,7 +521,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 139.7 67.31 0)
+			(at 139.7 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -492,7 +543,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 139.7 69.85 180)
+		(at 139.7 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -501,7 +552,7 @@
 		(fields_autoplaced yes)
 		(uuid "843d2e16-01c3-4840-a403-40bf934fbaf2")
 		(property "Reference" "TP6"
-			(at 142.24 71.8819 0)
+			(at 142.24 90.9319 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -510,7 +561,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 142.24 74.4219 0)
+			(at 142.24 93.4719 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -519,7 +570,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 134.62 69.85 0)
+			(at 134.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -528,7 +579,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 69.85 0)
+			(at 134.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -537,7 +588,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 139.7 69.85 0)
+			(at 139.7 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -558,7 +609,75 @@
 		)
 	)
 	(sheet
-		(at 142.24 129.54)
+		(at 196.85 71.12)
+		(size 27.94 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "166c95e1-e1ca-4267-82ca-1e985874a066")
+		(property "Sheetname" "radio"
+			(at 196.85 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "radio.kicad_sch"
+			(at 196.85 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LORA_IRQ" output
+			(at 196.85 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "16153b7e-5a3a-4cd1-8059-4ccae8000bcf")
+		)
+		(pin "LORA_CE" input
+			(at 196.85 76.2 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d989a5ae-6178-4d7f-a93e-a91d1b7ca452")
+		)
+		(pin "LORA" bidirectional
+			(at 196.85 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "58b23890-f8a6-493c-8527-ca72d1fe9eef")
+		)
+		(instances
+			(project "badge"
+				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 151.13)
 		(size 12.7 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -570,7 +689,7 @@
 		)
 		(uuid "7645f545-fb09-4b71-a7e4-4045145cacbd")
 		(property "Sheetname" "imu"
-			(at 141.5284 156.21 90)
+			(at 141.5284 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -579,7 +698,7 @@
 			)
 		)
 		(property "Sheetfile" "imu.kicad_sch"
-			(at 155.5246 156.21 90)
+			(at 155.5246 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -588,7 +707,7 @@
 			)
 		)
 		(pin "SCL" input
-			(at 148.59 129.54 90)
+			(at 148.59 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -598,7 +717,7 @@
 			(uuid "86a2ee78-df6a-44af-bca6-16ad1ba1aa08")
 		)
 		(pin "SDA" bidirectional
-			(at 146.05 129.54 90)
+			(at 146.05 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -732,7 +851,7 @@
 		)
 	)
 	(sheet
-		(at 68.58 86.36)
+		(at 68.58 107.95)
 		(size 64.77 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -744,7 +863,7 @@
 		)
 		(uuid "c21a255b-57d7-42f2-a297-078efe3a9c86")
 		(property "Sheetname" "keyboard"
-			(at 67.8684 114.3 90)
+			(at 67.8684 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -753,7 +872,7 @@
 			)
 		)
 		(property "Sheetfile" "keyboard.kicad_sch"
-			(at 133.9346 114.3 90)
+			(at 133.9346 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -762,7 +881,7 @@
 			)
 		)
 		(pin "SCL" input
-			(at 133.35 88.9 0)
+			(at 133.35 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -772,7 +891,7 @@
 			(uuid "775cf32e-d831-4b85-856b-38fb5d4fdcb5")
 		)
 		(pin "SDA" bidirectional
-			(at 133.35 91.44 0)
+			(at 133.35 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,6 +899,16 @@
 				(justify right)
 			)
 			(uuid "4a0f96f9-f8e2-463c-87b4-093819722046")
+		)
+		(pin "IO_IRQ" output
+			(at 101.6 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c545a2d5-2a2e-45fd-a95d-0a4e9425df7e")
 		)
 		(instances
 			(project "badge"
@@ -869,7 +998,7 @@
 	)
 	(sheet
 		(at 68.58 27.94)
-		(size 64.77 45.72)
+		(size 64.77 63.5)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -889,7 +1018,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 68.58 74.2446 0)
+			(at 68.58 92.0246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -928,7 +1057,7 @@
 			(uuid "8d115ca4-5f22-4815-b6e7-f9d1fb7764cb")
 		)
 		(pin "SCL" output
-			(at 133.35 67.31 0)
+			(at 133.35 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -938,7 +1067,7 @@
 			(uuid "f21ae0ae-b1fc-4bd2-8724-d5c4539128c2")
 		)
 		(pin "SDA" bidirectional
-			(at 133.35 69.85 0)
+			(at 133.35 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1007,6 +1136,46 @@
 			)
 			(uuid "612f24e9-1917-4c9c-942c-17b38e08351c")
 		)
+		(pin "LORA" bidirectional
+			(at 133.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8c4ed643-584a-42bf-8899-8d72824f3946")
+		)
+		(pin "LORA_CE" output
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b5be7d98-8a8c-466c-9e11-125c7f857d8a")
+		)
+		(pin "LORA_IRQ" input
+			(at 133.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "32e04fe6-13d6-40cc-88ba-dac2e0e751a0")
+		)
+		(pin "IO_IRQ" input
+			(at 101.6 91.44 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2caf01a9-a7df-4138-b9d1-fb593a666958")
+		)
 		(instances
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348"
@@ -1016,7 +1185,7 @@
 		)
 	)
 	(sheet
-		(at 119.38 129.54)
+		(at 119.38 151.13)
 		(size 12.7 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -1028,7 +1197,7 @@
 		)
 		(uuid "f56a97b8-cdf4-4860-a0f6-235c1ed6139a")
 		(property "Sheetname" "sensors"
-			(at 118.6684 156.21 90)
+			(at 118.6684 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1037,7 +1206,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 132.6646 156.21 90)
+			(at 132.6646 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1046,7 +1215,7 @@
 			)
 		)
 		(pin "SCL" input
-			(at 128.27 129.54 90)
+			(at 128.27 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1056,7 +1225,7 @@
 			(uuid "30f2a047-b014-4af9-b2a1-347d2431ec80")
 		)
 		(pin "SDA" bidirectional
-			(at 125.73 129.54 90)
+			(at 125.73 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
