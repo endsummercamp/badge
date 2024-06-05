@@ -943,7 +943,7 @@
 					)
 				)
 			)
-			(property "Footprint" "lib:SKRHABE010_ALPS"
+			(property "Footprint" "badge:SKRHABE010_ALPS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -970,14 +970,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(property "ki_keywords" "SKRHABE010"
@@ -1232,7 +1224,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 7.62)
 					(name "1"
@@ -1250,7 +1242,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 7.62)
 					(name "2"
@@ -1268,7 +1260,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -5.08 0)
 					(length 7.62)
 					(name "3"
@@ -1286,7 +1278,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 40.64 -5.08 180)
 					(length 7.62)
 					(name "4"
@@ -1304,7 +1296,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 40.64 -2.54 180)
 					(length 7.62)
 					(name "5"
@@ -1322,7 +1314,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 40.64 0 180)
 					(length 7.62)
 					(name "6"
@@ -1943,18 +1935,6 @@
 		(color 0 0 0 0)
 		(uuid "f9fae2e2-b5d0-4fdb-873a-512d562322e9")
 	)
-	(no_connect
-		(at 63.5 45.72)
-		(uuid "01c1b061-63f1-49a8-bf92-a9d639d2db5e")
-	)
-	(no_connect
-		(at 63.5 40.64)
-		(uuid "0c181500-ad10-47c3-9cb4-e03b01919f06")
-	)
-	(no_connect
-		(at 63.5 43.18)
-		(uuid "a116978f-2c7e-4860-9d26-ac29793f9bab")
-	)
 	(wire
 		(pts
 			(xy 78.74 48.26) (xy 63.5 48.26)
@@ -2227,6 +2207,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 43.18) (xy 68.58 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2146e561-1164-4a17-9e3d-e7727221402f")
+	)
+	(wire
+		(pts
 			(xy 200.66 50.8) (xy 196.85 50.8)
 		)
 		(stroke
@@ -2494,6 +2484,16 @@
 			(type default)
 		)
 		(uuid "4e517c92-c50f-4175-854b-49bed313032d")
+	)
+	(wire
+		(pts
+			(xy 63.5 40.64) (xy 68.58 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f538690-7e62-4590-abbe-ed0956cb2de5")
 	)
 	(wire
 		(pts
@@ -3307,6 +3307,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 45.72) (xy 68.58 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc281403-d916-406b-a6b9-f47019e88ba0")
+	)
+	(wire
+		(pts
 			(xy 158.75 45.72) (xy 81.28 45.72)
 		)
 		(stroke
@@ -3730,6 +3740,42 @@
 			(justify right)
 		)
 		(uuid "a599bdf4-baa0-43be-9b5d-3ffe2d7c72e2")
+	)
+	(hierarchical_label "LCD_RESET"
+		(shape output)
+		(at 68.58 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a7e679ef-4d3c-4cab-ad6f-68638b262446")
+	)
+	(hierarchical_label "MUTE"
+		(shape output)
+		(at 68.58 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "afdde115-7a95-45c6-95e7-211fc949e333")
+	)
+	(hierarchical_label "LORA_CE"
+		(shape output)
+		(at 68.58 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be597a78-5a48-4b95-b29b-a7ae3badc8e5")
 	)
 	(symbol
 		(lib_id "power:+3.3V")

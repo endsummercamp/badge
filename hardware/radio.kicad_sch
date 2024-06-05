@@ -970,7 +970,7 @@
 		)
 		(uuid "77d6d1f6-4eab-4e56-8d69-e28abb5613a0")
 	)
-	(hierarchical_label "LORA"
+	(hierarchical_label "LORA{SPI}"
 		(shape bidirectional)
 		(at 105.41 83.82 180)
 		(fields_autoplaced yes)

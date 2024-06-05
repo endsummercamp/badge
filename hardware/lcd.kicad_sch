@@ -8945,7 +8945,7 @@
 		)
 		(uuid "f5d08e7f-9281-4e34-a982-27aa20a682cc")
 	)
-	(hierarchical_label "LCD"
+	(hierarchical_label "LCD{SPI}"
 		(shape bidirectional)
 		(at 55.88 55.88 180)
 		(fields_autoplaced yes)

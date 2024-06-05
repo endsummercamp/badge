@@ -27,7 +27,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_BGA:WLP-9_1.448x1.468mm_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm"
+			(property "Footprint" "Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm"
 				(at -1.27 -2.54 0)
 				(effects
 					(font
@@ -102,9 +102,9 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 0 12.7 270)
-					(length 2.54)
+					(length 2.54) hide
 					(name "VDD"
 						(effects
 							(font
@@ -1217,7 +1217,7 @@
 		)
 		(uuid "3b971357-d3e4-45e4-adf3-e2a76121283c")
 	)
-	(hierarchical_label "AUDIO"
+	(hierarchical_label "AUDIO{I2S}"
 		(shape input)
 		(at 113.03 83.82 180)
 		(fields_autoplaced yes)
@@ -1697,31 +1697,31 @@
 				(hide yes)
 			)
 		)
-		(pin "A3"
+		(pin "B2"
 			(uuid "c26e940f-d361-4b29-83bc-4f6a494954e4")
 		)
-		(pin "B2"
+		(pin "C2"
 			(uuid "2264e844-7bd5-4789-82ce-487e05a27de4")
 		)
-		(pin "C3"
+		(pin "B1"
 			(uuid "d7fc9ec3-7ddb-45bd-8996-0d362848d9ce")
 		)
-		(pin "C1"
+		(pin "B3"
 			(uuid "cb425062-8d71-410e-a7b9-7216df8cbc5d")
 		)
-		(pin "B3"
+		(pin "C1"
 			(uuid "c80c75d0-aeb6-401a-971c-d53610c574d0")
 		)
-		(pin "A1"
+		(pin "A2"
 			(uuid "ba2280b1-ae0c-42f6-9c78-3258c994af19")
 		)
-		(pin "B1"
+		(pin "A3"
 			(uuid "47a25583-d1cf-4f10-9459-e219e648e677")
 		)
-		(pin "C2"
+		(pin "C3"
 			(uuid "d80fca11-1298-4bcd-8edf-790a46261c0c")
 		)
-		(pin "A2"
+		(pin "A1"
 			(uuid "95eb1013-823d-408f-a9ca-2b07474f0053")
 		)
 		(instances
