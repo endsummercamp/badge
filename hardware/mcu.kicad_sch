@@ -4351,6 +4351,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 123.19 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3626d28-7cd0-46f8-aa92-d15ca0434f91")
 		)
@@ -4385,7 +4394,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 172.72 105.918 90)
 			(effects
 				(font
@@ -4421,7 +4430,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "TODO"
+		(property "LCSC" "C105579"
 			(at 172.72 104.14 0)
 			(effects
 				(font
@@ -4464,7 +4473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.2k"
+		(property "Value" "1.2K"
 			(at 29.21 90.17 90)
 			(effects
 				(font
@@ -4491,6 +4500,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 29.21 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C114605"
 			(at 29.21 90.17 0)
 			(effects
 				(font
@@ -4532,7 +4550,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 95.25 161.798 90)
 			(effects
 				(font
@@ -4560,6 +4578,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 95.25 160.02 0)
 			(effects
 				(font
@@ -4800,7 +4827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.2k"
+		(property "Value" "1.2K"
 			(at 24.13 90.17 90)
 			(effects
 				(font
@@ -4827,6 +4854,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 24.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C114605"
 			(at 24.13 90.17 0)
 			(effects
 				(font
@@ -5300,6 +5336,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 95.25 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25cc6a33-4148-47aa-b468-58d654632724")
 		)
@@ -5334,7 +5379,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 176.53 105.918 90)
 			(effects
 				(font
@@ -5362,6 +5407,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 176.53 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 176.53 104.14 0)
 			(effects
 				(font
@@ -5856,6 +5910,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2913201"
+			(at 86.36 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "96e12543-4d1d-4902-9c77-a4653b04d5c1")
 		)
@@ -6109,6 +6172,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 83.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "157802c8-ac94-4351-be5a-ebc7e27cec2d")
 		)
@@ -6143,7 +6215,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 191.77 105.918 90)
 			(effects
 				(font
@@ -6171,6 +6243,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 191.77 104.14 0)
 			(effects
 				(font
@@ -6279,7 +6360,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 187.96 105.918 90)
 			(effects
 				(font
@@ -6307,6 +6388,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 187.96 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 187.96 104.14 0)
 			(effects
 				(font
@@ -6377,6 +6467,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 109.22 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1691"
 			(at 109.22 181.61 0)
 			(effects
 				(font
@@ -6519,7 +6618,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 123.19 161.798 90)
 			(effects
 				(font
@@ -6547,6 +6646,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 123.19 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 123.19 160.02 0)
 			(effects
 				(font
@@ -6837,6 +6945,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 81.28 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c08bf67b-996a-4fef-a1aa-3d536a900ff3")
 		)
@@ -6871,7 +6988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 180.34 105.918 90)
 			(effects
 				(font
@@ -6899,6 +7016,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 180.34 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 180.34 104.14 0)
 			(effects
 				(font
@@ -7007,7 +7133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 184.15 105.918 90)
 			(effects
 				(font
@@ -7035,6 +7161,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 184.15 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105579"
 			(at 184.15 104.14 0)
 			(effects
 				(font

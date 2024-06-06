@@ -3964,6 +3964,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 158.75 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9614172-4e1a-4be1-9a12-e1170c29de59")
 		)
@@ -4026,6 +4035,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 137.16 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 137.16 109.22 0)
 			(effects
 				(font
@@ -4104,6 +4122,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 177.8 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13cafe92-4c41-40a7-8a4c-c9049482737f")
 		)
@@ -4171,6 +4198,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C107701"
+			(at 69.85 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "78d83fe6-2dd3-42db-bff9-6dea80cec3c6")
 		)
@@ -4230,6 +4266,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 66.04 0)
 			(effects
 				(font
@@ -4308,7 +4353,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C128392"
+		(property "LCSC" "C128392"
 			(at 50.8 60.96 0)
 			(effects
 				(font
@@ -4453,6 +4498,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 137.16 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70146619-49cc-4240-b998-211ea891dfa2")
 		)
@@ -4523,6 +4577,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 115.57 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a94a1be9-1d31-4f3d-bac5-c28680fa4b4c")
 		)
@@ -4582,6 +4645,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 76.2 0)
 			(effects
 				(font
@@ -4660,6 +4732,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 137.16 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e807e07e-b3d6-4169-99c8-2b9bb82f8d3a")
 		)
@@ -4722,6 +4803,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 137.16 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 137.16 58.42 0)
 			(effects
 				(font
@@ -4866,6 +4956,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 177.8 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc04297e-0e2a-45b4-9125-2fec54788308")
 		)
@@ -4928,6 +5027,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 158.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 158.75 109.22 0)
 			(effects
 				(font
@@ -5006,6 +5114,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 115.57 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa757993-3b51-49b0-abc1-f44dd5291e22")
 		)
@@ -5076,6 +5193,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 177.8 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e00a03d-5bae-450e-bdf7-e2a9182b134b")
 		)
@@ -5138,6 +5264,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 160.02 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C139794"
 			(at 160.02 163.83 0)
 			(effects
 				(font
@@ -5220,6 +5355,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 196.85 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 196.85 83.82 0)
 			(effects
 				(font
@@ -5496,6 +5640,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 158.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8791a458-4781-4f9f-99bb-2152527a4363")
 		)
@@ -5558,6 +5711,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 196.85 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 196.85 109.22 0)
 			(effects
 				(font
@@ -5636,6 +5798,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 115.57 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8927e94a-44f7-4611-8fe3-f96eb55fb02b")
 		)
@@ -5706,6 +5877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 177.8 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2be0b931-d1f9-4ad0-ba73-6d7bff51b00a")
 		)
@@ -5765,6 +5945,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 71.12 0)
 			(effects
 				(font
@@ -5909,6 +6098,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 177.8 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be9564ce-7dbd-4b54-8008-8cb583c21a1c")
 		)
@@ -5971,6 +6169,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 196.85 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 196.85 58.42 0)
 			(effects
 				(font
@@ -6115,6 +6322,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 137.16 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "094d5620-2314-4a17-a19e-063e777221fb")
 		)
@@ -6177,6 +6393,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 158.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 158.75 58.42 0)
 			(effects
 				(font
@@ -6255,6 +6480,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 158.75 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ce56973-b2e5-472a-9c08-bdb3187c2c42")
 		)
@@ -6314,6 +6548,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 63.5 0)
 			(effects
 				(font
@@ -6392,6 +6635,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 215.9 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7bd94a6f-1053-4794-9856-3c78df4ee2c7")
 		)
@@ -6454,6 +6706,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 115.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 115.57 109.22 0)
 			(effects
 				(font
@@ -6532,6 +6793,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 115.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e153cdf9-e8bf-4450-9e7e-3e1d3c50f6fe")
 		)
@@ -6594,6 +6864,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 115.57 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 115.57 121.92 0)
 			(effects
 				(font
@@ -6672,6 +6951,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 158.75 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "584f8e8d-4ddb-4b4c-bc49-c77901b4af50")
 		)
@@ -6731,6 +7019,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 73.66 0)
 			(effects
 				(font
@@ -6809,6 +7106,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 196.85 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "398d910b-f84e-4454-9c16-4b50d387468d")
 		)
@@ -6871,6 +7177,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 177.8 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 177.8 109.22 0)
 			(effects
 				(font
@@ -7094,6 +7409,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 177.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a7712842-b1a5-4438-b6dc-933d5c991feb")
 		)
@@ -7153,6 +7477,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 68.58 0)
 			(effects
 				(font
@@ -7231,6 +7564,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 158.75 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c17344d6-62f4-43be-8ac8-f0cf93cb3d4c")
 		)
@@ -7293,6 +7635,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 137.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -7371,6 +7722,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 45.72 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7a991ce5-6d96-4aad-bf77-b2761d59aa37")
 		)
@@ -7430,6 +7790,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C107701"
 			(at 69.85 81.28 0)
 			(effects
 				(font
@@ -7508,6 +7877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 196.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "811b4da1-322b-405e-84aa-28b7bb88e938")
 		)
@@ -7570,6 +7948,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 196.85 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 196.85 134.62 0)
 			(effects
 				(font
@@ -7648,6 +8035,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 137.16 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9330ff54-ba75-4897-b1dc-8575ca2f4d01")
 		)
@@ -7718,6 +8114,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 196.85 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7df84ccc-1031-4848-8cd1-e47b6a491a3d")
 		)
@@ -7780,6 +8185,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 115.57 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2888430"
 			(at 115.57 58.42 0)
 			(effects
 				(font

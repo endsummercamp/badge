@@ -1561,6 +1561,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 132.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1b473327-fcfa-4196-9837-2e2f5f591445")
 		)
@@ -1689,6 +1698,15 @@
 			)
 		)
 		(property "Description" "Mono DAC with amplifier, I2S, PCM, TDM, 32-bit, 96khz, 3.2W, TQFP-16"
+			(at 153.67 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2682619"
 			(at 153.67 96.52 0)
 			(effects
 				(font

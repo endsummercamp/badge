@@ -294,6 +294,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49c3036f-a0d6-4d1d-9f2f-56d1cdb56559")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/0f187dcc-9ee8-40ce-a042-bd2cb3d6049d")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -561,6 +574,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93e8e9b2-e6b5-4f2b-b0be-50047f239cd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -834,6 +860,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a2cbebc-a9a2-4396-b98a-6dcca53f96e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/406916c2-71bf-437d-80c3-2c78166751b7")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -1101,6 +1140,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0585654-a7ce-45ae-883b-15239371e1d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1374,6 +1426,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "703ce0d4-f92c-4407-b593-67d596b5112c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/db2ff486-591a-4cb4-9e63-d8825198f174")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -1641,6 +1706,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d66d71f-c70e-4200-9b44-c16d397ef989")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1914,6 +1992,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c0e5af3-0e0e-491b-b4a2-060376588be3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/4706054b-5448-4050-8b82-da89deb1ec86")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -2181,6 +2272,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa7fada0-f859-40be-ad69-22d892713cca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2454,6 +2558,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d928cd2-a87d-4e58-ae00-f3d5e30dd320")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/e4ec4846-2231-4dae-8baa-60109b9ac73f")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -2724,6 +2841,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "637e360b-9492-4bce-a253-7285d47489d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/79822cdf-d08a-408a-854f-fc0fb77ff5e2")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -2991,6 +3121,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4c419b0-81c7-4fae-a4b1-e1efa4e3e313")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3416,6 +3559,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08bbf402-4311-4147-ab3c-9afc47e98b02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/da776b42-bf48-436a-880d-d33e357d8a77")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -3686,6 +3842,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f460840b-a3c1-4f31-a6d2-d85a53693fe0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/baf35a05-2ccc-457f-92d3-9fca0315d0dd")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -3953,6 +4122,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C139794"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32a1bdeb-6685-45b8-9d11-e45202e3d3a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4324,6 +4506,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9394e221-2691-47c9-80ed-17b6200754a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/d72bf733-6185-487e-ae2f-9e85074baaef")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -4591,6 +4786,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37f6306d-2a77-40a0-ba22-145f3f052c85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4864,6 +5072,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d40cdcfc-15d9-4c93-9189-0f8a5735e331")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/687b02cf-54a1-4b44-a86a-0bef19ead818")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -5131,6 +5352,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "13860bd4-36cf-4c47-99cc-7dfe08cd195f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5404,6 +5638,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bea3ce9-03e5-4815-8772-4e6cef9e9024")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/60870d3b-b076-41bb-9255-6749fde55765")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -5671,6 +5918,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9194ae62-d43e-4403-8ede-dbdc695b2e70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6235,6 +6495,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00a293b3-48c7-4c0e-890e-5b038dd0bb17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/b291dbf6-dd22-4035-9a6d-3e32b159c3df")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -6502,6 +6775,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "886e1f97-80d0-40dc-815f-ae85d31d3f45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6775,6 +7061,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd1acfca-7ec8-4c07-87f2-6d29e068fb32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/8ba529de-0af9-4623-8eee-04beded5221f")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -7042,6 +7341,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9131129-4082-47c5-92b9-bdd7bcc773ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7315,6 +7627,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db53e966-8703-474b-bc18-48d09fe40a58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/23515104-335c-464c-8d13-908f828058ca")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -7582,6 +7907,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42ceb604-bb78-444f-a9f3-2c4ef41bfe58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7855,6 +8193,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21192675-8207-4846-9d34-9f8a2be777f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/36f0eb8a-d570-467b-85b4-147a61977633")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -8122,6 +8473,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1ff4c14-3812-41db-9e03-a90c0e228650")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8395,6 +8759,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f389c18c-fcb3-476d-84a4-a353cf031982")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/50128fcd-f6b6-44fd-8957-20fc7c9b7044")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -8662,6 +9039,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7eb3a6a-2b8f-4b7e-84c7-7db1e7116a91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8935,6 +9325,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f65df1ad-3a8e-47af-af83-b2f324f7facf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/f28ded4a-a312-4c32-b5e1-722124f2e221")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -9202,6 +9605,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4edf31b-055a-41ad-a4d3-e1f3ed37bc79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9747,6 +10163,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "328a7579-7a63-4730-bb9f-88173cf356b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/e96b1a87-5c5b-4751-b5da-9f6267653b08")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -10014,6 +10443,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bbd630e-7c0d-422c-bc0b-06fb5f9d8b99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10287,6 +10729,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf4544e6-bd78-425e-8ef5-c508087f0dc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/3f05e6c6-c670-46d2-a017-33acc5b3bc73")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -10557,6 +11012,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c48c5b7-4812-4133-97de-23789664fd59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/c059f1a5-f39f-43be-bf54-2a1c1583b7e0")
 		(sheetname "keyboard")
 		(sheetfile "keyboard.kicad_sch")
@@ -10824,6 +11292,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c40b035b-c5de-4f8c-9a11-ec381f16a6ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12002,6 +12483,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C105588"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f658a681-db2f-403b-b63f-0d18be6d7ad6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0/cd80b7d3-c9cf-492a-9a11-b31fd7f54776")
 		(sheetname "lcd")
@@ -12215,6 +12710,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C1691"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f5799a7-f129-4259-aed5-1012eaf9a275")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12938,6 +13447,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9ca92be9-0130-440d-878b-d67c5d562e8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d3fb9833-a00e-444d-9e5a-c108fd26b22a/72d6ed57-00c2-4eee-a387-ee5d40e8e6ec")
 		(sheetname "mcu")
@@ -13151,6 +13674,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C116699"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f56fb2ff-8c23-42f5-bc68-bbcc660fe2eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13805,6 +14342,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c68e5c07-31d2-4927-a2ee-7e0c171a1b7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14886,6 +15437,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C965799"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1dc26a1c-3de0-4c3c-9be6-e8852fbf8203")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/fa1edb42-107e-4301-94d6-2222638475c5/28c30eda-ec11-4ec5-bc39-e8f374b6c0f5")
 		(sheetname "power")
@@ -15244,7 +15809,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C910544"
+		(property "LCSC" "C2682619"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15591,6 +16156,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8c599e51-82d8-4b5a-b380-72397cad8f99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/91dfd6ce-04b9-4635-b49c-5b803a94b226")
 		(sheetname "keyboard")
@@ -15808,7 +16387,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" " C128392"
+		(property "LCSC" "C128392"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16483,7 +17062,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "5d268027-1172-4616-b611-c0f0131af979")
@@ -16530,6 +17109,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4519dcf3-e84d-481e-9ccd-eb30939ba08d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16751,6 +17344,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ad10d4d-cf4f-4fa2-8d69-f742a81a1014")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/b65721bf-699b-4e7e-9476-0ae3e089ddab")
 		(sheetname "keyboard")
@@ -16964,6 +17571,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2888430"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f7323a8b-b7f4-4391-a860-6a5d3949fca8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17193,7 +17814,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1.78k"
+		(property "Value" "1.78K"
 			(at 0 -1.43 180)
 			(layer "B.Fab")
 			(uuid "97251f41-e8da-466a-b3a7-38a41f85b8de")
@@ -17240,6 +17861,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C137775"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "701ba46f-a3d5-474f-a536-c3687d0a763a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17461,6 +18096,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "23d2483e-be2c-410c-a25d-10dacd8dd7b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/0fa0d914-9454-448b-adc3-53f512dc835f")
 		(sheetname "keyboard")
@@ -17678,6 +18327,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1705"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dcd656e2-74a2-4ce4-acfa-c755d7bdccbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fa1edb42-107e-4301-94d6-2222638475c5/fbe99722-c7f4-432f-bd7d-c7103568e149")
 		(sheetname "power")
@@ -17891,6 +18554,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9731d3f0-8383-4c2b-9ab0-750e3fadfe28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18822,7 +19499,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "5.1K"
 			(at 0 -1.365 180)
 			(layer "B.Fab")
 			(uuid "8e66c936-720e-485a-9a1c-4b414fb189bf")
@@ -19053,7 +19730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "e5db63bd-6658-4e09-abfc-4febebde6989")
@@ -19100,6 +19777,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "518f6966-ca4a-418c-ab8c-40ce108c40f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19270,7 +19961,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "5a8f2585-7377-425e-8c64-3f1f0c9a6aa3")
@@ -19321,7 +20012,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "TODO"
+		(property "LCSC" "C105579"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19548,6 +20239,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C1691"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56d84363-55ed-42a5-84d8-676ce95e7ef9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20148,6 +20853,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1705"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "00e5faa4-1322-499b-9e5f-f9ec7c56cbd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fa1edb42-107e-4301-94d6-2222638475c5/2c63f8f2-3008-4528-826b-3b88fa14fc72")
 		(sheetname "power")
@@ -20480,6 +21199,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "060cd4cb-87ee-4f8c-a566-69e65091b0b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20881,7 +21614,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "f0078f3e-a93e-41fb-9b6d-30615620b596")
@@ -20928,6 +21661,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "47224b38-aecb-43e5-bdc7-686453a5317c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21098,7 +21845,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "5.1K"
 			(at 0 -1.17 180)
 			(layer "B.Fab")
 			(uuid "65a48921-9ce8-4991-a601-00ce2f8a8214")
@@ -21492,7 +22239,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "51117a08-d0d1-49c5-b229-3608bba467a3")
@@ -21539,6 +22286,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ecc9de9-023c-4317-b6e1-2cd8dc281eda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21760,6 +22521,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a20bd9d6-cf68-43cc-b23e-2c9b70a28eb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ad67004f-875d-4fc1-b072-e51c46d83319/7183ebd6-7bf5-45e9-9956-1aa6aa911ee3")
 		(sheetname "audio")
@@ -21926,7 +22701,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "680k"
+		(property "Value" "680K"
 			(at -3.429 0.127 180)
 			(layer "B.Fab")
 			(uuid "61c207a7-cccb-468e-a55f-69d00c1ab74a")
@@ -21973,6 +22748,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C137690"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91e6a04f-3d46-44da-8fca-5336ddacae4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22190,6 +22979,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "76c507ad-5f71-48fb-a560-2f262e71e11f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22983,7 +23786,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "68f79368-6f2b-4b77-a5a4-8aaf9bf21b4f")
@@ -23030,6 +23833,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "33c7a152-3893-4dcf-8917-d5e22c606131")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23200,7 +24017,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1.2k"
+		(property "Value" "1.2K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "e33fd85b-48c7-46d1-a88a-9980b21cdb01")
@@ -23247,6 +24064,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114605"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "38892784-5de9-4b31-8e87-69b1ed03fa17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23464,6 +24295,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C1691"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8a04370f-dedf-451a-b152-b27d3a67e0dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24236,6 +25081,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C1705"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "926fb1f1-4c00-4312-a08a-b7fb25f600eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25317,7 +26176,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "f157eb3b-d794-4a59-800a-e511e6efe7fe")
@@ -25368,7 +26227,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "TODO"
+		(property "LCSC" "C105579"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25667,7 +26526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "f691c485-c729-496f-aa62-c88ffc14e658")
@@ -25714,6 +26573,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6fe125dd-9e3d-4664-8708-6748dc6f0930")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25884,7 +26757,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at -3.2766 -4.384 0)
 			(layer "B.Fab")
 			(uuid "621469c5-641c-45b8-bb74-ae3b2f81680f")
@@ -25931,6 +26804,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0e3a4640-2be8-4a96-8461-0b81a33e08e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26614,6 +27501,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C308517"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "51c679e5-8cdb-4461-9856-b47b55e36b18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0/4fda6cb3-feaf-42b4-8457-76f3f0a89aa0")
 		(sheetname "lcd")
@@ -26780,7 +27681,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "16a55a15-cbf0-4585-973d-8803198f5c8a")
@@ -26827,6 +27728,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb92de24-c4e9-434f-9fd7-a189bc98adb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27581,6 +28496,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2913201"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0b13deb9-53e8-49f5-8482-0246ed2b1544")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28517,6 +29446,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C116699"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d479529f-dd4a-4383-be0c-418739286f6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0/0555ea1e-9ca5-44a7-a6b1-0ba52f8d9062")
 		(sheetname "lcd")
@@ -28730,6 +29673,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114660"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0dab376b-22fd-402a-8231-ec07f3149f42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29182,6 +30139,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "238963ba-70c2-4f86-bcb7-1837f27f6a32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c21a255b-57d7-42f2-a297-078efe3a9c86/e0d4e254-5685-4ad3-8e71-ba3600937365")
 		(sheetname "keyboard")
@@ -29395,6 +30366,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c9f6362-94f1-44e1-b6a2-4fc58dd91b18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30120,7 +31105,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1.2k"
+		(property "Value" "1.2K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "78522207-2e15-4c50-b871-d96b37ab534c")
@@ -30167,6 +31152,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114605"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0dc9ebc-a71d-4963-8ce2-9e504c3f5beb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30337,7 +31336,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 -90)
 			(layer "B.Fab")
 			(uuid "bf408bb1-701c-46a9-a6f2-8cfd7ff11694")
@@ -30384,6 +31383,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "49f553d0-f23e-4e5a-92f0-c8be4e77cb52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30725,6 +31738,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C114660"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2e4d0cb8-bf7e-42c3-aa26-b30cdaf5ae69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1edb42-107e-4301-94d6-2222638475c5/3a7996b1-aa7b-4a67-9226-85082308f9f9")
 		(sheetname "power")
@@ -30938,6 +31965,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114660"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "edad44c9-75a7-49a8-bee8-5afea3369f3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31156,6 +32197,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C202114"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a3b78b75-6a6b-40ce-882c-e2b637eaf1f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31911,6 +32966,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1691"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "36c1bc8f-659b-47d5-ab6b-1842fcfcd9e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/166c95e1-e1ca-4267-82ca-1e985874a066/182b3a65-e43e-405d-9a92-ba105c390457")
 		(sheetname "radio")
@@ -32568,6 +33637,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C107701"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aa041c96-8179-465d-a301-a829d738ffc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33958,7 +35041,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "330R"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "1f017687-13dc-45ae-a408-7c4a00064e77")
@@ -34005,6 +35088,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105879"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68a0caff-c0c5-48f8-9e63-b8c05bd604cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34226,6 +35323,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C116699"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "06adbc79-4610-45ee-b210-621aeaa01abc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1edb42-107e-4301-94d6-2222638475c5/bf8a1187-ef0c-4a20-ad92-62f432b9ae6c")
 		(sheetname "power")
@@ -34392,7 +35503,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47K"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "8d09535b-05fb-4449-b389-79b9b8c7cdb8")
@@ -34439,6 +35550,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C105579"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9c89fb3-9836-4810-842d-4355d03c437d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34660,6 +35785,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C116699"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1b4d0d75-330a-4475-b1d1-660a8df10d28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ce5aa0f6-0554-44ba-9e09-c73e868ec9d0/d836cab7-7b85-4530-a4aa-2a709fb35e0f")
 		(sheetname "lcd")
@@ -34826,7 +35965,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1.2k"
+		(property "Value" "1.2K"
 			(at 0 -1.43 -90)
 			(layer "B.Fab")
 			(uuid "fa436f66-e579-4bc3-88c4-e85c5a1145a4")
@@ -34873,6 +36012,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114605"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a18c9980-7240-4bed-a557-f749dd9c41a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
