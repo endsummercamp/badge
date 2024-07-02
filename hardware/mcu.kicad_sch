@@ -4528,6 +4528,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 154.94 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3626d28-7cd0-46f8-aa92-d15ca0434f91")
 		)
@@ -4599,6 +4608,15 @@
 			)
 		)
 		(property "LCSC" "C105579"
+			(at 200.66 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 200.66 45.72 0)
 			(effects
 				(font
@@ -4685,6 +4703,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 203.2 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f50f4b5-f89b-47a7-a20e-dc556da4770e")
 		)
@@ -4755,6 +4782,15 @@
 			)
 		)
 		(property "LCSC" "C105579"
+			(at 127 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 127 156.21 0)
 			(effects
 				(font
@@ -5031,6 +5067,15 @@
 			)
 		)
 		(property "LCSC" "C114605"
+			(at 198.12 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 198.12 146.05 0)
 			(effects
 				(font
@@ -5440,6 +5485,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 269.24 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "badge"
 				(path "/dc4a3d77-b0f8-4e90-a4be-3e93c7025348/d3fb9833-a00e-444d-9e5a-c108fd26b22a"
@@ -5505,6 +5559,15 @@
 			)
 		)
 		(property "LCSC" "C2888430"
+			(at 127 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 127 176.53 0)
 			(effects
 				(font
@@ -5584,6 +5647,15 @@
 			)
 		)
 		(property "LCSC" "C105579"
+			(at 204.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 204.47 45.72 0)
 			(effects
 				(font
@@ -5796,6 +5868,15 @@
 			)
 		)
 		(property "LCSC" "C2931973"
+			(at 49.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 49.53 161.29 0)
 			(effects
 				(font
@@ -6087,6 +6168,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" "0,-3.65"
+			(at 107.95 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "96e12543-4d1d-4902-9c77-a4653b04d5c1")
 		)
@@ -6349,6 +6439,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 240.03 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "157802c8-ac94-4351-be5a-ebc7e27cec2d")
 		)
@@ -6420,6 +6519,15 @@
 			)
 		)
 		(property "LCSC" "C105579"
+			(at 219.71 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 219.71 45.72 0)
 			(effects
 				(font
@@ -6573,6 +6681,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 215.9 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a7353143-e5b9-455a-b012-524266e7c07d")
 		)
@@ -6644,6 +6761,15 @@
 			)
 		)
 		(property "LCSC" "C1691"
+			(at 140.97 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 140.97 177.8 0)
 			(effects
 				(font
@@ -6730,6 +6856,15 @@
 			)
 		)
 		(property "LCSC Link" "https://www.lcsc.com/product-detail/SD-Card-Memory-Card-Connector_Korean-Hroparts-Elec-TF-01A_C91145.html"
+			(at 247.65 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" "0,5.5"
 			(at 247.65 67.31 0)
 			(effects
 				(font
@@ -6832,6 +6967,15 @@
 			)
 		)
 		(property "LCSC" "C105579"
+			(at 154.94 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 154.94 156.21 0)
 			(effects
 				(font
@@ -6977,6 +7121,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 257.81 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 257.81 148.59 0)
 			(effects
 				(font
@@ -7131,6 +7284,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 113.03 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c08bf67b-996a-4fef-a1aa-3d536a900ff3")
 		)
@@ -7202,6 +7364,15 @@
 			)
 		)
 		(property "LCSC" "C105579"
+			(at 208.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 208.28 45.72 0)
 			(effects
 				(font
@@ -7355,6 +7526,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 212.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f860cc7f-bf53-4dd0-8557-5ab2f83c6e6b")
 		)
@@ -7417,6 +7597,15 @@
 			)
 		)
 		(property "Description" "Dual potentiometer, separate units"
+			(at 110.49 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 110.49 110.49 0)
 			(effects
 				(font
@@ -7565,6 +7754,15 @@
 			)
 		)
 		(property "Description" "Dual potentiometer, separate units"
+			(at 59.69 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 59.69 109.22 0)
 			(effects
 				(font
@@ -8117,6 +8315,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 68.58 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 68.58 161.29 0)
 			(effects
 				(font

@@ -9121,6 +9121,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 83.82 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "94612d75-b1b3-4986-9efd-ed7c75b14654")
 		)
@@ -9264,6 +9273,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 67.31 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a6095e0-c493-45dd-bee5-426f29a60fd6")
 		)
@@ -9336,6 +9354,15 @@
 			)
 		)
 		(property "LCSC" "C20917"
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 54.61 113.03 0)
 			(effects
 				(font
@@ -9482,6 +9509,15 @@
 			)
 		)
 		(property "LCSC" "C116699"
+			(at 83.82 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 83.82 165.1 0)
 			(effects
 				(font
@@ -9898,6 +9934,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 46.99 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1252a1ee-6ee9-4bab-bf9b-bfafa9d9b63c")
 		)
@@ -9967,6 +10012,15 @@
 			)
 		)
 		(property "LCSC" "C116699"
+			(at 83.82 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 83.82 185.42 0)
 			(effects
 				(font
@@ -10055,6 +10109,15 @@
 			)
 		)
 		(property "JLCPCB Rotation Offset" "180"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 138.43 86.36 0)
 			(effects
 				(font

@@ -589,6 +589,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Position Offset" ""
+			(at 99.06 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08c1ecde-e390-4772-baea-c9524b3a94f2")
 		)
@@ -648,6 +657,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 99.06 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Position Offset" ""
 			(at 99.06 87.63 0)
 			(effects
 				(font
