@@ -7614,6 +7614,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17511761"
+			(at 110.49 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9e928c25-9bde-4ecb-852c-3fec7f4d4ea9")
 		)
@@ -7763,6 +7772,15 @@
 			)
 		)
 		(property "JLCPCB Position Offset" ""
+			(at 59.69 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17511761"
 			(at 59.69 109.22 0)
 			(effects
 				(font
