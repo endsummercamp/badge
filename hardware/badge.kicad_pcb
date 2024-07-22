@@ -6569,6 +6569,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C17511761"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eeb238d0-1761-4df0-bc73-fd3acd8ae2a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/d3fb9833-a00e-444d-9e5a-c108fd26b22a/cf940878-68d6-45e7-b517-78981291941c")
 		(sheetname "mcu")

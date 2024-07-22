@@ -58,9 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "items_not_allowed|169315250|48655000|768b7e93-c895-41d5-b165-05ae925c7406|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -638,24 +636,6 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC Link",
-          "name": "LCSC Link",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "JLCPCB Rotation Offset",
-          "name": "JLCPCB Rotation Offset",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "JLCPCB Position Offset",
-          "name": "JLCPCB Position Offset",
           "show": true
         }
       ],
