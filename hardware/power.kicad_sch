@@ -14540,7 +14540,7 @@
 				)
 			)
 		)
-		(property "Value" " MK-12C02-G020"
+		(property "Value" "MK-12C02-G020"
 			(at 96.52 33.02 0)
 			(effects
 				(font

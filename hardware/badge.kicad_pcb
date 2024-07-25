@@ -19867,7 +19867,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" " MK-12C02-G020"
+		(property "Value" "MK-12C02-G020"
 			(at 0 -4.25 -90)
 			(layer "B.Fab")
 			(uuid "cea72026-8327-43df-be83-73891afce066")
@@ -34254,7 +34254,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C202114"
+		(property "LCSC" "C262674"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34288,6 +34288,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b5ea067b-f080-4871-aa71-34a09cd4277c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_OLD" "C202114"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ca8e23e5-cfda-4595-8238-934561eaed6c")
 			(effects
 				(font
 					(size 1 1)

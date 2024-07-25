@@ -10099,7 +10099,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C202114"
+		(property "LCSC_OLD" "C202114"
 			(at 138.43 86.36 0)
 			(effects
 				(font
@@ -10118,6 +10118,15 @@
 			)
 		)
 		(property "JLCPCB Position Offset" ""
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C262674"
 			(at 138.43 86.36 0)
 			(effects
 				(font
