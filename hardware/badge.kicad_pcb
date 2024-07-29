@@ -28746,7 +28746,7 @@
 		(descr "TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0136.PDF (T1633-5), https://pdfserv.maximintegrated.com/land_patterns/90-0032.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
 		(tags "TQFN NoLead")
 		(property "Reference" "U8"
-			(at 0 2.8 360)
+			(at 0 2.8 0)
 			(layer "B.SilkS")
 			(uuid "1d64ced0-36db-4aee-9178-e15768bdb835")
 			(effects
@@ -28758,7 +28758,7 @@
 			)
 		)
 		(property "Value" "MAX98357A"
-			(at 0 -2.8 360)
+			(at 0 -2.8 0)
 			(layer "B.Fab")
 			(uuid "4de3f1ae-58de-4073-a69d-f6d9b089fad4")
 			(effects
@@ -28999,7 +28999,7 @@
 			(uuid "ceaf1603-d240-4ab1-b5cc-2e5fa1476f4b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "327c7690-38a5-4d90-b098-598cb7353e1f")
 			(effects

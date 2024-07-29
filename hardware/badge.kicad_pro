@@ -636,6 +636,30 @@
           "label": "LCSC",
           "name": "LCSC",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Rotation Offset",
+          "name": "JLCPCB Rotation Offset",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Link",
+          "name": "LCSC Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC_OLD",
+          "name": "LCSC_OLD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Position Offset",
+          "name": "JLCPCB Position Offset",
+          "show": false
         }
       ],
       "filter_string": "",
